@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👋 Hi, I'm Reb Emnacin  
+---
+## 🎓 Education  
+- Studying **BS in Computer Science** at **New Era University**
 
-<!--
-**RebEmnacin/RebEmnacin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🏅 Certifications  
+- **SQL and Relational Databases 101**  
+  🔗 https://courses.cognitiveclass.ai/certificates/248159af4c5846d4ab620d5e39948f5e
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Skills  
+
+### 💻 Programming Languages  
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50"/>
+</p>
+
+### 🗄️ Databases  
+<p align="left">
+  <img src="https://pngimg.com/uploads/ibm/ibm_PNG19660.png" width="90" alt="IBM Logo"/>
+</p>
+
+
+### 🚀 Tools & Frameworks  
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50"/>
+  <a href="https://marketplace.microsoft.com/zh-tw/product/office/wa104381935?tab=overview" target="_blank">
+    <img src="https://store-images.s-microsoft.com/image/apps.7736.f1e439b9-777e-47dd-b695-f05d19eb7b38.8ee3e6f6-c400-4919-811d-59b0cd18fa41.e5bd6ef7-31e5-4ca5-a5c6-79be979af666.png" width="60" alt="Lucidchart for Microsoft Teams"/>
+  </a>
+</p>
