@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Reb Emnacin  
 ---
 ## 🎓 Education  
-- Studying **BS in Computer Science** at **New Era University**
+- Studying **BS in Computer Science** at **New Era University** (2024 - present)
 
 ---
 
