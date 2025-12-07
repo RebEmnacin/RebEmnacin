@@ -9,7 +9,7 @@
 - **SQL and Relational Databases 101**  
   🔗 https://courses.cognitiveclass.ai/certificates/248159af4c5846d4ab620d5e39948f5e
 - **Oracle Cloud Infrastructure 2025 Certified Foundations Associate**  
-  🔗 [https://courses.cognitiveclass.ai/certificates/248159af4c5846d4ab620d5e39948f5e](https://catalog-education.oracle.com/ords/certview/sharebadge?id=6941EF3CB5EB7C0833D64EF5BF8A257C21D53C11A362E7DD0DAB73518C59AF58)
+  🔗 [[https://courses.cognitiveclass.ai/certificates/248159af4c5846d4ab620d5e39948f5e](https://catalog-education.oracle.com/ords/certview/sharebadge)](https://catalog-education.oracle.com/ords/certview/sharebadge?id=6941EF3CB5EB7C0833D64EF5BF8A257C21D53C11A362E7DD0DAB73518C59AF58)
 ---
 
 ## 🛠️ Skills  
