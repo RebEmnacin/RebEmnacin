@@ -8,7 +8,7 @@
 ## 🏅 Certifications 🌟
 Showcase your achievements with verifiable badges! Click to verify.
 
-| Certification | Badge |
+| Certification/Badges | Links |
 | :--- | :--- |
 | **SQL and Relational Databases 101** | [![SQL and Relational Databases 101 Badge](https://img.shields.io/badge/IBM%20Cognitive%20Class-SQL%20101-blue?style=for-the-badge&logo=ibm&labelColor=2C3E50)](https://courses.cognitiveclass.ai/certificates/248159af4c5846d4ab620d5e39948f5e) |
 | **Oracle Cloud Infrastructure 2025 Certified Foundations Associate** | [![OCI Certified Foundations Associate Badge](https://img.shields.io/badge/Oracle%20Cloud-Foundations%20Associate-red?style=for-the-badge&logo=oracle&labelColor=F80000)](https://catalog-education.oracle.com/ords/certview/sharebadge?id=6941EF3CB5EB7C0833D64EF5BF8A257C21D53C11A362E7DD0DAB73518C59AF58) |
