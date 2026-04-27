@@ -2,12 +2,12 @@
 
 # Reb Emnacin
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=7F77DD&center=true&vCenter=true&width=435&lines=BS+Computer+Science+Student;Open+to+Opportunities" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=378ADD&center=true&vCenter=true&width=435&lines=BS+Computer+Science+Student;Open+to+Opportunities" alt="Typing SVG" />
 
 <br/>
 
-[![Open to Opportunities](https://img.shields.io/badge/🟣_Status-Open%20to%20Opportunities-7F77DD?style=flat-square&labelColor=EEEDFE)](https://github.com/rebemnacin)
-[![New Era University](https://img.shields.io/badge/🎓_School-New%20Era%20University-4479A1?style=flat-square&labelColor=E6F1FB)](https://neu.edu.ph)
+[![Open to Opportunities](https://img.shields.io/badge/🔵_Status-Open%20to%20Opportunities-378ADD?style=flat-square&labelColor=E6F1FB)](https://github.com/rebemnacin)
+[![New Era University](https://img.shields.io/badge/🎓_School-New%20Era%20University-185FA5?style=flat-square&labelColor=B5D4F4)](https://neu.edu.ph)
 
 </div>
 
@@ -75,9 +75,5 @@
 <div align="center">
 
 *✦ &nbsp; What are you looking at? >:( &nbsp; ✦*
-
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=rebemnacin&style=flat-square&color=7F77DD)
 
 </div>
