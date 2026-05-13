@@ -44,7 +44,7 @@
 `tools & frameworks`
 <br/>
 
-[![Tools](https://skillicons.dev/icons?i=react,fastapi,figma,vscode,idea)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=react,fastapi,figma,vscode,idea,eclipse)](https://skillicons.dev)
 
 </div>
 
