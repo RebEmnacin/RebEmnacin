@@ -11,7 +11,7 @@
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/education-0d1117?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiM2NjY2NjYiIHN0cm9rZS13aWR0aD0iMiI+PHBhdGggZD0iTTIyIDEwdjZNMiAxMGwxMC01IDEwIDUtMTAgNXoiLz48cGF0aCBkPSJNNiAxMnY1YzMgMyA5IDMgMTIgMHYtNSIvPjwvc3ZnPg==&logoColor=white" alt="education"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=1&pause=999999&color=666666&center=true&vCenter=true&width=300&height=40&lines=education" alt="education"/>
 
 | degree | school | year |
 |:---|:---|:---:|
@@ -23,9 +23,9 @@
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/skills-0d1117?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiM2NjY2NjYiIHN0cm9rZS13aWR0aD0iMiI+PHBhdGggZD0iTTE0LjcgNi4zYTEgMSAwIDAgMCAwIDEuNGwxLjYgMS42YTEgMSAwIDAgMCAxLjQgMGwzLjc3LTMuNzdhNiA2IDAgMCAxLTcuOTQgNy45NGwtNi45MSA2LjkxYTIuMTIgMi4xMiAwIDAgMS0zLTNsNi45MS02LjkxYTYgNiAwIDAgMSA3Ljk0LTcuOTRsLTMuNzYgMy43NnoiLz48L3N2Zz4=&logoColor=white" alt="skills"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=1&pause=999999&color=666666&center=true&vCenter=true&width=300&height=40&lines=skills" alt="skills"/>
 
-<br/><br/>
+<br/>
 
 `languages`
 <br/>
@@ -52,7 +52,7 @@
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/certifications-0d1117?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiM2NjY2NjYiIHN0cm9rZS13aWR0aD0iMiI+PGNpcmNsZSBjeD0iMTIiIGN5PSI4IiByPSI2Ii8+PHBhdGggZD0iTTE1LjQ3NyAxMi44OSAxNyAyMmwtNS0zLTUgMyAxLjUyMy05LjExIi8+PC9zdmc+&logoColor=white" alt="certifications"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=1&pause=999999&color=666666&center=true&vCenter=true&width=300&height=40&lines=certifications" alt="certifications"/>
 
 <table>
 <tr>
@@ -107,7 +107,7 @@
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/featured%20project-0d1117?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiM2NjY2NjYiIHN0cm9rZS13aWR0aD0iMiI+PHBvbHlnb24gcG9pbnRzPSIxMiAyIDE1LjA5IDguMjYgMjIgOS4yNyAxNyAxNC4xNCAxOC4xOCAyMS4wMiAxMiAxNy43NyA1LjgyIDIxLjAyIDcgMTQuMTQgMiA5LjI3IDguOTEgOC4yNiAxMiAyIi8+PC9zdmc+&logoColor=white" alt="featured project"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=1&pause=999999&color=666666&center=true&vCenter=true&width=300&height=40&lines=featured+project" alt="featured project"/>
 
 [![breadcrumber](https://img.shields.io/badge/breadcrumber-ADHD--friendly%20project%20manager-ffbf6e?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiMxNjEwMjQiIHN0cm9rZS13aWR0aD0iMiI+PHBhdGggZD0iTTMgMTFsMTktOS05IDE5LTItOC04LTJ6Ii8+PC9zdmc+&logoColor=161024&labelColor=161024)](https://github.com/RebEmnacin/breadcrumber-app)
 
