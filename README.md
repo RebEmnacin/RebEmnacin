@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=F5C800&center=true&vCenter=true&width=500&height=60&lines=Hi%2C+I'm+Reb;a.k.a+Jolt;CS+student+%26+Creator;Open+to+Opportunities+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=F5C800&center=true&vCenter=true&width=500&height=60&lines=Hi%2C+I'm+Reb;a.k.a+Jolts;CS+student+%26+Creator;Open+to+Opportunities+%F0%9F%9A%80" alt="Typing SVG" />
 <br/>
 
 [![Open to Opportunities](https://img.shields.io/badge/Status-Open%20to%20Opportunities-F5C800?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9ImJsYWNrIiBzdHJva2Utd2lkdGg9IjIiPjxwb2x5bGluZSBwb2ludHM9IjEzIDIgMyAxNCAxMiAxNCAyMiAxNiAxMiAyMiIvPjwvc3ZnPg==&logoColor=black&labelColor=0d1117)](https://github.com/RebEmnacin)
