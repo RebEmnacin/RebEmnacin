@@ -115,6 +115,7 @@ More projects coming soon — always building something useful ✨
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RebEmnacin)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/reb-emnacin-a9752b404/)
 
 *Open to internships, collabs, and interesting problems to solve.*
 
