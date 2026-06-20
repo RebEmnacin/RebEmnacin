@@ -2,120 +2,108 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=F5C800&center=true&vCenter=true&width=500&height=60&lines=Hi%2C+I'm+Reb;a.k.a+Jolts;CS+student+%26+Creator;Open+to+Opportunities+%F0%9F%9A%80" alt="Typing SVG" />
 <br/>
 
-[![Open to Opportunities](https://img.shields.io/badge/Status-Open%20to%20Opportunities-F5C800?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9ImJsYWNrIiBzdHJva2Utd2lkdGg9IjIiPjxwb2x5bGluZSBwb2ludHM9IjEzIDIgMyAxNCAxMiAxNCAyMiAxNiAxMiAyMiIvPjwvc3ZnPg==&logoColor=black&labelColor=0d1117)](https://github.com/RebEmnacin)
-[![New Era University](https://img.shields.io/badge/School-New%20Era%20University-ffffff?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9ImJsYWNrIiBzdHJva2Utd2lkdGg9IjIiPjxwYXRoIGQ9Ik0yMiAxMHY2TTIgMTBsMTAtNSAxMCA1LTEwIDV6Ii8+PHBhdGggZD0iTTYgMTJ2NWMzIDMgOSAzIDEyIDB2LTUiLz48L3N2Zz4=&logoColor=black&labelColor=0d1117)](https://neu.edu.ph)
+[![Open to Opportunities](https://img.shields.io/badge/Status-Open%20to%20Opportunities-F5C800?style=flat-square&logoColor=black&labelColor=0d1117)](https://github.com/RebEmnacin)
+[![New Era University](https://img.shields.io/badge/School-New%20Era%20University-ffffff?style=flat-square&logoColor=black&labelColor=0d1117)](https://neu.edu.ph)
 
 </div>
 
 ---
 
 <div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=1&pause=999999&color=ffffff&center=true&vCenter=true&width=300&height=40&lines=education" alt="education"/>
-
-| degree | school | year |
-|:---|:---|:---:|
-| BS in Computer Science | New Era University | 2024 – present |
-
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=1&pause=999999&color=ffffff&center=true&vCenter=true&width=400&height=40&lines=about+me" alt="about me"/>
 </div>
 
----
+🧠 I'm a **CS student**, **builder**, and occasional **chaos-driven creative** who turns half-finished ideas into actual working projects. I like making things that solve *my own* problems first — usually that means small tools, dashboards, and apps that don't exist yet but probably should.
+
+[![](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
+
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=1&pause=999999&color=ffffff&center=true&vCenter=true&width=400&height=40&lines=github+analytics" alt="github analytics"/>
+</div>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=1&pause=999999&color=ffffff&center=true&vCenter=true&width=300&height=40&lines=skills" alt="skills"/>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RebEmnacin&theme=tokyonight&hide_border=true&stroke=F5C800&background=0a0a0a)](https://github.com/RebEmnacin)
 
-<br/>
+| [![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=RebEmnacin&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&bg_color=0a0a0a&title_color=F5C800&icon_color=F5C800)](https://github.com/RebEmnacin) | [![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=RebEmnacin&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=0a0a0a&title_color=F5C800)](https://github.com/RebEmnacin) |
+|---|---|
 
-`languages`
-<br/>
-
-[![Languages](https://skillicons.dev/icons?i=java,python,js,html,css)](https://skillicons.dev)
-
-<br/>
-
-`databases`
-<br/>
-
-[![Databases](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
-
-<br/>
-
-`tools & frameworks`
-<br/>
-
-[![Tools](https://skillicons.dev/icons?i=react,fastapi,figma,vscode,idea,eclipse)](https://skillicons.dev)
+[![](https://github-readme-activity-graph.vercel.app/graph?username=RebEmnacin&bg_color=0a0a0a&color=F5C800&line=F5C800&point=ffffff&area=true&hide_border=true)](https://github.com/RebEmnacin)
 
 </div>
 
----
+[![](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
+
+## 💡 Tech Stack & Expertise
+
+[![Skills Icons](https://skillicons.dev/icons?i=java,python,js,html,css,react,mysql,figma&theme=dark&perline=8)](https://skillicons.dev)
+
+### 🌌 Proficiency Overview
+
+| Category | Tools & Technologies |
+|---|---|
+| **Languages** | ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) |
+| **Database** | ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) |
+| **Frameworks & Tools** | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) |
+| **IDEs** | ![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![IntelliJ](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white) ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white) |
+
+> [!NOTE]
+> **🍞 Currently Exploring:** Stretching into the wider stack — `TypeScript` `Node.js` `Express.js` `PostgreSQL` `NeonDB` `Axios` `Zustand` `Vite.js` `React Router` `PHP` `Supabase` `Bootstrap` `Tailwind CSS` `Netlify` `Vercel`. Familiar with the concepts, actively leveling these up project by project.
+
+[![](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
+
+#### ⚡ Core Competencies
+
+| **🎨 Frontend Foundations**<br/>HTML/CSS/JS fundamentals paired with React for building responsive, interactive interfaces. | **🗄️ Database-Aware Development**<br/>Strong grounding in MySQL and relational database design — schema-first thinking before code. |
+|---|---|
+| **🐍 Multi-Language Fluency**<br/>Comfortable jumping between Java, Python, and JavaScript depending on what the project demands. | **🚀 Rapid Prototyping**<br/>FastAPI + React for spinning up working prototypes fast, then iterating based on what actually breaks. |
+
+[![](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
+
+## 🚀 Featured Project
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=1&pause=999999&color=ffffff&center=true&vCenter=true&width=300&height=40&lines=certifications" alt="certifications"/>
-
-<table>
-<tr>
-<td align="center" width="50%">
-
-<img src="https://img.shields.io/badge/IBM%20·%20Cognitive%20Class-052FAD?style=flat-square&logo=ibm&logoColor=white&labelColor=0d1117" alt="IBM"/>
-<br/><br/>
-
-**SQL and Relational Databases 101**
-<br/>
-<a href="https://courses.cognitiveclass.ai/certificates/248159af4c5846d4ab620d5e39948f5e"><img src="https://img.shields.io/badge/↗%20verify-0d1117?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMiIgaGVpZ2h0PSIxMiIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiNGNUM4MDAiIHN0cm9rZS13aWR0aD0iMiI+PHBhdGggZD0iTTE4IDEzdjZhMiAyIDAgMCAxLTIgMkg1YTIgMiAwIDAgMS0yLTJWOGEyIDIgMCAwIDEgMi0yaDYiLz48cG9seWxpbmUgcG9pbnRzPSIxNSAzIDIxIDMgMjEgOSIvPjxsaW5lIHgxPSIxMCIgeTE9IjE0IiB4Mj0iMjEiIHkyPSIzIi8+PC9zdmc+&logoColor=F5C800" alt="verify"/></a>
-
-</td>
-<td align="center" width="50%">
-
-<img src="https://img.shields.io/badge/Oracle%20Cloud-F80000?style=flat-square&logo=oracle&logoColor=white&labelColor=0d1117" alt="Oracle"/>
-<br/><br/>
-
-**OCI 2025 Certified Foundations Associate**
-<br/>
-<a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=6941EF3CB5EB7C0833D64EF5BF8A257C21D53C11A362E7DD0DAB73518C59AF58"><img src="https://img.shields.io/badge/↗%20verify-0d1117?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMiIgaGVpZ2h0PSIxMiIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiNGNUM4MDAiIHN0cm9rZS13aWR0aD0iMiI+PHBhdGggZD0iTTE4IDEzdjZhMiAyIDAgMCAxLTIgMkg1YTIgMiAwIDAgMS0yLTJWOGEyIDIgMCAwIDEgMiAyaDYiLz48cG9seWxpbmUgcG9pbnRzPSIxNSAzIDIxIDMgMjEgOSIvPjxsaW5lIHgxPSIxMCIgeTE9IjE0IiB4Mj0iMjEiIHkyPSIzIi8+PC9zdmc+&logoColor=F5C800" alt="verify"/></a>
-
-</td>
-</tr>
-<tr>
-<td align="center" width="50%">
-
-<img src="https://img.shields.io/badge/Oracle%20Cloud-F80000?style=flat-square&logo=oracle&logoColor=white&labelColor=0d1117" alt="Oracle"/>
-<br/><br/>
-
-**Oracle Data Platform Foundations Associate**
-<br/>
-<a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=FC6BF38C8A976E45FFE6F233D652B85BF2EF4C7AEBBE068491AA129A001DBC33"><img src="https://img.shields.io/badge/↗%20verify-0d1117?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMiIgaGVpZ2h0PSIxMiIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiNGNUM4MDAiIHN0cm9rZS13aWR0aD0iMiI+PHBhdGggZD0iTTE4IDEzdjZhMiAyIDAgMCAxLTIgMkg1YTIgMiAwIDAgMS0yLTJWOGEyIDIgMCAwIDEgMiAyaDYiLz48cG9seWxpbmUgcG9pbnRzPSIxNSAzIDIxIDMgMjEgOSIvPjxsaW5lIHgxPSIxMCIgeTE9IjE0IiB4Mj0iMjEiIHkyPSIzIi8+PC9zdmc+&logoColor=F5C800" alt="verify"/></a>
-
-</td>
-<td align="center" width="50%">
-
-<img src="https://img.shields.io/badge/Oracle%20Cloud-F80000?style=flat-square&logo=oracle&logoColor=white&labelColor=0d1117" alt="Oracle"/>
-<br/><br/>
-
-**OCI AI Foundations Associate (2025)**
-<br/>
-<a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=71CC11DCFE431802B2DE719C81F52F2AF2478ABAB7563607DBE6DB72E5B607C0"><img src="https://img.shields.io/badge/↗%20verify-0d1117?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMiIgaGVpZ2h0PSIxMiIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiNGNUM4MDAiIHN0cm9rZS13aWR0aD0iMiI+PHBhdGggZD0iTTE4IDEzdjZhMiAyIDAgMCAxLTIgMkg1YTIgMiAwIDAgMS0yLTJWOGEyIDIgMCAwIDEgMiAyaDYiLz48cG9seWxpbmUgcG9pbnRzPSIxNSAzIDIxIDMgMjEgOSIvPjxsaW5lIHgxPSIxMCIgeTE9IjE0IiB4Mj0iMjEiIHkyPSIzIi8+PC9zdmc+&logoColor=F5C800" alt="verify"/></a>
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=1&pause=999999&color=ffffff&center=true&vCenter=true&width=300&height=40&lines=featured+project" alt="featured project"/>
-
-[![breadcrumber](https://img.shields.io/badge/🍞_breadcrumber-ADHD--friendly+project+manager-ffbf6e?style=for-the-badge&labelColor=16102414)](https://github.com/RebEmnacin/breadcrumber-app)
+### 🍞 breadcrumber-app
 
 *an AI-powered roadmap builder for creatives who struggle to start*
 
+[![View on GitHub](https://img.shields.io/badge/View_on_GitHub-ffbf6e?style=for-the-badge&logo=github&logoColor=161024)](https://github.com/RebEmnacin/breadcrumber-app)
+
 </div>
 
----
+More projects coming soon — always building something useful ✨
+
+[![](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
+
+## 📖 Education
+
+| Degree | School | Year |
+|---|---|---|
+| **BS in Computer Science** | New Era University | 2024 – Present |
+
+[![](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
+
+## 📜 Certifications
+
+| Status | Certification | Verification |
+|---|---|---|
+| 🛡️ | **SQL and Relational Databases 101**<br/>*IBM · Cognitive Class* | [![View](https://img.shields.io/badge/↗_verify-0d1117?style=flat-square&logoColor=F5C800)](https://courses.cognitiveclass.ai/certificates/248159af4c5846d4ab620d5e39948f5e) |
+| ☁️ | **OCI 2025 Certified Foundations Associate**<br/>*Oracle University* | [![View](https://img.shields.io/badge/↗_verify-0d1117?style=flat-square&logoColor=F5C800)](https://catalog-education.oracle.com/ords/certview/sharebadge?id=6941EF3CB5EB7C0833D64EF5BF8A257C21D53C11A362E7DD0DAB73518C59AF58) |
+| 📊 | **Oracle Data Platform Foundations Associate**<br/>*Oracle University* | [![View](https://img.shields.io/badge/↗_verify-0d1117?style=flat-square&logoColor=F5C800)](https://catalog-education.oracle.com/ords/certview/sharebadge?id=FC6BF38C8A976E45FFE6F233D652B85BF2EF4C7AEBBE068491AA129A001DBC33) |
+| 🤖 | **OCI AI Foundations Associate (2025)**<br/>*Oracle University* | [![View](https://img.shields.io/badge/↗_verify-0d1117?style=flat-square&logoColor=F5C800)](https://catalog-education.oracle.com/ords/certview/sharebadge?id=71CC11DCFE431802B2DE719C81F52F2AF2478ABAB7563607DBE6DB72E5B607C0) |
+
+[![](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
+
+## 📫 Let's Connect
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RebEmnacin)
+
+*Open to internships, collabs, and interesting problems to solve.*
+
+</div>
 
 <div align="center">
 
