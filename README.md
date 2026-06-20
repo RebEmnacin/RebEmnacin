@@ -15,6 +15,8 @@
 
 🧠 I'm a **CS student**, **builder**, and occasional **chaos-driven creative** who turns half-finished ideas into actual working projects. I like making things that solve *my own* problems first — usually that means small tools, dashboards, and apps that don't exist yet but probably should.
 
+My process usually goes: idea planning → sketching it out → designing the look in my graphics tools → building the skeleton by hand in HTML/CSS/JS → bringing in AI to vibe-code it into something polished → then going back through line by line to actually understand what was generated, catch hallucinations, and fix anything that's quietly broken.
+
 [![](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
 <div align="center">
@@ -50,28 +52,21 @@
 
 ## 💡 Tech Stack & Expertise
 
-[![Skills Icons](https://skillicons.dev/icons?i=java,python,js,ts,html,css,react,mysql,figma,github&theme=dark&perline=10)](https://skillicons.dev)
+[![Skills Icons](https://skillicons.dev/icons?i=java,python,js,ts,html,css,react,postgres,mysql,figma,github&theme=dark&perline=10)](https://skillicons.dev)
 
 ### 🌌 Proficiency Overview
 
 | Category | Tools & Technologies |
 |---|---|
 | **Languages** | ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) |
-| **Database** | ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) |
+| **Database** | ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) ![Neon](https://img.shields.io/badge/Neon-00E599?style=for-the-badge&logo=neon&logoColor=white) |
 | **Frameworks & Tools** | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) |
-| **Design & AI Tools** | ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white) ![Lucidchart](https://img.shields.io/badge/Lucidchart-1A1A1A?style=for-the-badge&logo=lucid&logoColor=white) ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white) ![Google Gemini](https://img.shields.io/badge/Google_Gemini-886FBF?style=for-the-badge&logo=googlegemini&logoColor=white) |
+| **Graphics & Creative** | ![CapCut](https://img.shields.io/badge/CapCut-000000?style=for-the-badge&logo=capcut&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white) ![Unsplash](https://img.shields.io/badge/Unsplash-000000?style=for-the-badge&logo=unsplash&logoColor=white) ![Coolors](https://img.shields.io/badge/Coolors-1A1A1A?style=for-the-badge&logo=coolors&logoColor=white) ![1001 Fonts](https://img.shields.io/badge/1001_Fonts-EA4C89?style=for-the-badge&logo=fonts&logoColor=white) ![Lucidchart](https://img.shields.io/badge/Lucidchart-1A1A1A?style=for-the-badge&logo=lucid&logoColor=white) |
+| **AI Tools** | ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white) ![Google Gemini](https://img.shields.io/badge/Google_Gemini-886FBF?style=for-the-badge&logo=googlegemini&logoColor=white) |
 | **IDEs** | ![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![IntelliJ](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white) ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white) |
 
 > [!NOTE]
 > **🍞 Currently Exploring:** Stretching into the wider stack — `TypeScript` `Node.js` `Express.js` `PostgreSQL` `NeonDB` `Axios` `Zustand` `Vite.js` `React Router` `PHP` `Supabase` `Bootstrap` `Tailwind CSS` `Netlify` `Vercel`. Familiar with the concepts, actively leveling these up project by project.
-
-[![](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
-
-#### ⚡ Core Competencies
-
-| **🎨 Frontend Foundations**<br/>HTML/CSS/JS fundamentals paired with React for building responsive, interactive interfaces. | **🗄️ Database-Aware Development**<br/>Strong grounding in MySQL and relational database design — schema-first thinking before code. |
-|---|---|
-| **🐍 Multi-Language Fluency**<br/>Comfortable jumping between Java, Python, and JavaScript depending on what the project demands. | **🚀 Rapid Prototyping**<br/>FastAPI + React for spinning up working prototypes fast, then iterating based on what actually breaks. |
 
 [![](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
