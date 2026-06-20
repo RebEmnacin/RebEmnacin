@@ -110,16 +110,6 @@ More projects coming soon — always building something useful ✨
 
 [![](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
-## 🧰 README Toolbox
-
-A few open-source tools that helped build this profile — go give them a ⭐:
-
-- 🚀 [gh-space-shooter](https://github.com/czl9707/gh-space-shooter) — turns the contribution graph above into a daily space battle
-- 🎨 [ICONIC](https://github.com/YuheshPandian/ICONIC) — bubble-shaped skill icons for READMEs and portfolios
-- 🖼️ [DevIcons](https://github.com/Nighty3098/DevIcons) — dev tool icon set
-
-[![](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
-
 ## 📫 Let's Connect
 
 <div align="center">
