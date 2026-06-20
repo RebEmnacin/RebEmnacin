@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=F5C800&center=true&vCenter=true&width=500&height=60&lines=Hi%2C+I'm+Reb;a.k.a+Jolts;CS+student+%26+Creator;Open+to+Opportunities+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=F5C800&center=true&vCenter=true&width=500&height=60&lines=Hi%2C+I'm+Reb;a.k.a+Jolts;CS+student+%26+Creator;Open+to+Opportunities" alt="Typing SVG" />
 <br/>
 
 [![Open to Opportunities](https://img.shields.io/badge/Status-Open%20to%20Opportunities-F5C800?style=flat-square&logoColor=black&labelColor=0d1117)](https://github.com/RebEmnacin)
@@ -13,7 +13,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=1&pause=999999&color=ffffff&center=true&vCenter=true&width=400&height=40&lines=about+me" alt="about me"/>
 </div>
 
-🧠 I'm a **CS student**, **builder**, and occasional **chaos-driven creative** who turns half-finished ideas into actual working projects. I like making things that solve *my own* problems first — usually that means small tools, dashboards, and apps that don't exist yet but probably should.
+I'm a **CS student**, **builder**, and occasional **chaos-driven creative** who turns half-finished ideas into actual working projects. I like making things that solve *my own* problems first — usually that means small tools, dashboards, and apps that don't exist yet but probably should.
 
 My process usually goes: idea planning → sketching it out → designing the look in my graphics tools → building the skeleton by hand in HTML/CSS/JS → bringing in AI to vibe-code it into something polished → then going back through line by line to actually understand what was generated, catch hallucinations, and fix anything that's quietly broken.
 
@@ -50,11 +50,11 @@ My process usually goes: idea planning → sketching it out → designing the lo
 
 [![](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
-## 💡 Tech Stack & Expertise
+## <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/light-bulb-24.svg" width="22" height="22" align="absmiddle"/> Tech Stack & Expertise
 
 [![Skills Icons](https://skillicons.dev/icons?i=java,python,js,ts,html,css,react,postgres,mysql,figma,github&theme=dark&perline=10)](https://skillicons.dev)
 
-### 🌌 Proficiency Overview
+### Proficiency Overview
 
 | Category | Tools & Technologies |
 |---|---|
@@ -66,15 +66,15 @@ My process usually goes: idea planning → sketching it out → designing the lo
 | **IDEs** | ![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![IntelliJ](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white) ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white) |
 
 > [!NOTE]
-> **🍞 Currently Exploring:** Stretching into the wider stack — `TypeScript` `Node.js` `Express.js` `PostgreSQL` `NeonDB` `Axios` `Zustand` `Vite.js` `React Router` `PHP` `Supabase` `Bootstrap` `Tailwind CSS` `Netlify` `Vercel`. Familiar with the concepts, actively leveling these up project by project.
+> **Currently Exploring:** Stretching into the wider stack — `TypeScript` `Node.js` `Express.js` `PostgreSQL` `NeonDB` `Axios` `Zustand` `Vite.js` `React Router` `PHP` `Supabase` `Bootstrap` `Tailwind CSS` `Netlify` `Vercel`. Familiar with the concepts, actively leveling these up project by project.
 
 [![](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
-## 🚀 Featured Project
+## <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/rocket-24.svg" width="22" height="22" align="absmiddle"/> Featured Project
 
 <div align="center">
 
-### 🍞 breadcrumber-app
+### breadcrumber-app
 
 *an AI-powered roadmap builder for creatives who struggle to start*
 
@@ -82,11 +82,11 @@ My process usually goes: idea planning → sketching it out → designing the lo
 
 </div>
 
-More projects coming soon — always building something useful ✨
+More projects coming soon — always building something useful.
 
 [![](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
-## 📖 Education
+## <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/book-24.svg" width="22" height="22" align="absmiddle"/> Education
 
 | Degree | School | Year |
 |---|---|---|
@@ -94,18 +94,18 @@ More projects coming soon — always building something useful ✨
 
 [![](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
-## 📜 Certifications
+## <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/shield-check-24.svg" width="22" height="22" align="absmiddle"/> Certifications
 
-| Status | Certification | Verification |
+| Certification | Issuer | Verification |
 |---|---|---|
-| 🛡️ | **SQL and Relational Databases 101**<br/>*IBM · Cognitive Class* | [![View](https://img.shields.io/badge/↗_verify-0d1117?style=flat-square&logoColor=F5C800)](https://courses.cognitiveclass.ai/certificates/248159af4c5846d4ab620d5e39948f5e) |
-| ☁️ | **OCI 2025 Certified Foundations Associate**<br/>*Oracle University* | [![View](https://img.shields.io/badge/↗_verify-0d1117?style=flat-square&logoColor=F5C800)](https://catalog-education.oracle.com/ords/certview/sharebadge?id=6941EF3CB5EB7C0833D64EF5BF8A257C21D53C11A362E7DD0DAB73518C59AF58) |
-| 📊 | **Oracle Data Platform Foundations Associate**<br/>*Oracle University* | [![View](https://img.shields.io/badge/↗_verify-0d1117?style=flat-square&logoColor=F5C800)](https://catalog-education.oracle.com/ords/certview/sharebadge?id=FC6BF38C8A976E45FFE6F233D652B85BF2EF4C7AEBBE068491AA129A001DBC33) |
-| 🤖 | **OCI AI Foundations Associate (2025)**<br/>*Oracle University* | [![View](https://img.shields.io/badge/↗_verify-0d1117?style=flat-square&logoColor=F5C800)](https://catalog-education.oracle.com/ords/certview/sharebadge?id=71CC11DCFE431802B2DE719C81F52F2AF2478ABAB7563607DBE6DB72E5B607C0) |
+| **SQL and Relational Databases 101** | IBM · Cognitive Class | [![View](https://img.shields.io/badge/verify-0d1117?style=flat-square&logoColor=F5C800)](https://courses.cognitiveclass.ai/certificates/248159af4c5846d4ab620d5e39948f5e) |
+| **OCI 2025 Certified Foundations Associate** | Oracle University | [![View](https://img.shields.io/badge/verify-0d1117?style=flat-square&logoColor=F5C800)](https://catalog-education.oracle.com/ords/certview/sharebadge?id=6941EF3CB5EB7C0833D64EF5BF8A257C21D53C11A362E7DD0DAB73518C59AF58) |
+| **Oracle Data Platform Foundations Associate** | Oracle University | [![View](https://img.shields.io/badge/verify-0d1117?style=flat-square&logoColor=F5C800)](https://catalog-education.oracle.com/ords/certview/sharebadge?id=FC6BF38C8A976E45FFE6F233D652B85BF2EF4C7AEBBE068491AA129A001DBC33) |
+| **OCI AI Foundations Associate (2025)** | Oracle University | [![View](https://img.shields.io/badge/verify-0d1117?style=flat-square&logoColor=F5C800)](https://catalog-education.oracle.com/ords/certview/sharebadge?id=71CC11DCFE431802B2DE719C81F52F2AF2478ABAB7563607DBE6DB72E5B607C0) |
 
 [![](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
-## 📫 Let's Connect
+## <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/mail-24.svg" width="22" height="22" align="absmiddle"/> Let's Connect
 
 <div align="center">
 
@@ -118,6 +118,6 @@ More projects coming soon — always building something useful ✨
 
 <div align="center">
 
-*✦ &nbsp; what are you looking at? >:( &nbsp; ✦*
+*✦ &nbsp; what are you looking at? :( &nbsp; ✦*
 
 </div>
