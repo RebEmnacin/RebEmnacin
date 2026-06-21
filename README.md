@@ -140,3 +140,4 @@ More projects coming soon — always building something useful.
 ![Footer Wave](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:F5C800&height=100&section=footer)
 
 </div>
+
