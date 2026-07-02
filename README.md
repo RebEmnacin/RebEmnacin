@@ -8,8 +8,8 @@
 
 **⚡ CS student • a.k.a Jolts • Creative • Open to Opportunities ⚡**
 
-[![Open to Opportunities](https://img.shields.io/badge/Status-Open%20to%20Opportunities-F2C230?style=flat-square&logoColor=black&labelColor=1a1a1a)](https://github.com/RebEmnacin)
-[![New Era University](https://img.shields.io/badge/School-New%20Era%20University-8C6D1F?style=flat-square&logoColor=white&labelColor=1a1a1a)](https://neu.edu.ph)
+[![Open to Opportunities](https://img.shields.io/badge/Status-Open%20to%20Opportunities-F2C230?style=for-the-badge&logoColor=black&labelColor=1a1a1a)](https://github.com/RebEmnacin)
+[![New Era University](https://img.shields.io/badge/School-New%20Era%20University-8C6D1F?style=for-the-badge&logoColor=white&labelColor=1a1a1a)](https://neu.edu.ph)
 
 </div>
 
@@ -17,7 +17,7 @@
 
 <div align="center">
 
-## <img src="https://api.iconify.design/octicon/light-bulb.svg?color=%23F2C230&width=22&height=22" alt=""/> Tech Stack & Expertise
+## 💡 Tech Stack & Expertise
 
 [![Skills Icons](https://skillicons.dev/icons?i=java,python,js,ts,html,css,react,nodejs,mysql,figma,github&theme=dark&perline=11)](https://skillicons.dev)
 
@@ -29,13 +29,13 @@
 
 | Category | Stack |
 |---|---|
-| <img src="https://api.iconify.design/octicon/code.svg?color=%23F2C230&width=18&height=18" alt="" align="absmiddle"/> **Languages** | ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
-| <img src="https://api.iconify.design/octicon/gear.svg?color=%23F2C230&width=18&height=18" alt="" align="absmiddle"/> **Runtime** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) |
-| <img src="https://api.iconify.design/octicon/database.svg?color=%23F2C230&width=18&height=18" alt="" align="absmiddle"/> **Database** | ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white) |
-| <img src="https://api.iconify.design/octicon/tools.svg?color=%23F2C230&width=18&height=18" alt="" align="absmiddle"/> **Frameworks & Tools** | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) |
-| <img src="https://api.iconify.design/noto/artist-palette.svg?width=20&height=20" alt="" align="absmiddle"/> **Graphics & Creative** | ![CapCut](https://img.shields.io/badge/CapCut-000000?style=flat-square&logo=capcut&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=Canva&logoColor=white) ![Unsplash](https://img.shields.io/badge/Unsplash-000000?style=flat-square&logo=unsplash&logoColor=white) ![Coolors](https://img.shields.io/badge/Coolors-1A1A1A?style=flat-square&logo=coolors&logoColor=white) ![Lucidchart](https://img.shields.io/badge/Lucidchart-1A1A1A?style=flat-square&logo=lucid&logoColor=white) |
-| <img src="https://api.iconify.design/noto/robot.svg?width=20&height=20" alt="" align="absmiddle"/> **AI Tools** | ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=claude&logoColor=white) ![Gemini](https://img.shields.io/badge/Gemini-886FBF?style=flat-square&logo=googlegemini&logoColor=white) |
-| <img src="https://api.iconify.design/octicon/device-desktop.svg?color=%23F2C230&width=18&height=18" alt="" align="absmiddle"/> **IDEs** | ![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) ![IntelliJ](https://img.shields.io/badge/IntelliJ-000000?style=flat-square&logo=intellij-idea&logoColor=white) ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=eclipseide&logoColor=white) |
+| 💻 **Languages** | ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) |
+| ⚙️ **Runtime** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) |
+| 🗄️ **Database** | ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) |
+| 🛠️ **Frameworks & Tools** | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) |
+| 🎨 **Graphics & Creative** | ![CapCut](https://img.shields.io/badge/CapCut-000000?style=for-the-badge&logo=capcut&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white) ![Unsplash](https://img.shields.io/badge/Unsplash-000000?style=for-the-badge&logo=unsplash&logoColor=white) ![Coolors](https://img.shields.io/badge/Coolors-1A1A1A?style=for-the-badge&logo=coolors&logoColor=white) ![Lucidchart](https://img.shields.io/badge/Lucidchart-1A1A1A?style=for-the-badge&logo=lucid&logoColor=white) |
+| 🤖 **AI Tools** | ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white) ![Gemini](https://img.shields.io/badge/Gemini-886FBF?style=for-the-badge&logo=googlegemini&logoColor=white) |
+| 🖥️ **IDEs** | ![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![IntelliJ](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellij-idea&logoColor=white) ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white) |
 
 </div>
 
@@ -47,19 +47,19 @@
 
 | Category | Stack |
 |---|---|
-| <img src="https://api.iconify.design/octicon/zap.svg?color=%23F2C230&width=18&height=18" alt="" align="absmiddle"/> **Backend** | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white) |
-| <img src="https://api.iconify.design/octicon/server.svg?color=%23F2C230&width=18&height=18" alt="" align="absmiddle"/> **Database** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Neon](https://img.shields.io/badge/Neon-00E599?style=flat-square&logo=neon&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=flat-square&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white) |
-| <img src="https://api.iconify.design/octicon/plug.svg?color=%23F2C230&width=18&height=18" alt="" align="absmiddle"/> **Frontend Tools** | ![Axios](https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=axios&logoColor=white) ![Zustand](https://img.shields.io/badge/Zustand-433E38?style=flat-square&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=reactrouter&logoColor=white) |
-| <img src="https://api.iconify.design/octicon/pencil.svg?color=%23F2C230&width=18&height=18" alt="" align="absmiddle"/> **Styling** | ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) |
-| <img src="https://api.iconify.design/noto/rocket.svg?width=20&height=20" alt="" align="absmiddle"/> **Deployment** | ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white) |
-| <img src="https://api.iconify.design/octicon/telescope.svg?color=%23F2C230&width=18&height=18" alt="" align="absmiddle"/> **Other** | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white) |
+| ⚡ **Backend** | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) |
+| 🗃️ **Database** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) ![Neon](https://img.shields.io/badge/Neon-00E599?style=for-the-badge&logo=neon&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) ![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white) |
+| 🔌 **Frontend Tools** | ![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white) ![Zustand](https://img.shields.io/badge/Zustand-433E38?style=for-the-badge&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white) |
+| ✏️ **Styling** | ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white) |
+| 🚀 **Deployment** | ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) |
+| 🔭 **Other** | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white) |
 
 </div>
 
 ---
 
 <details>
-<summary><h3><img src="https://api.iconify.design/octicon/note.svg?color=%23F2C230&width=20&height=20" alt="" align="absmiddle"/> About Me</h3></summary>
+<summary><h3>📝 About Me</h3></summary>
 
 I'm a **CS student**, **builder**, and occasional **chaos-driven creative** who turns half-finished ideas into actual working projects. I like making things that solve *my own* problems first — usually that means small tools, dashboards, and apps that don't exist yet but probably should.
 
@@ -68,7 +68,7 @@ My process usually goes: idea planning → sketching it out → designing the lo
 </details>
 
 <details>
-<summary><h3><img src="https://api.iconify.design/octicon/graph.svg?color=%23F2C230&width=20&height=20" alt="" align="absmiddle"/> GitHub Analytics</h3></summary>
+<summary><h3>📊 GitHub Analytics</h3></summary>
 
 <div align="center">
 
@@ -88,7 +88,7 @@ My process usually goes: idea planning → sketching it out → designing the lo
 </details>
 
 <details>
-<summary><h3><img src="https://api.iconify.design/octicon/mortar-board.svg?color=%23F2C230&width=20&height=20" alt="" align="absmiddle"/> Education</h3></summary>
+<summary><h3>🎓 Education</h3></summary>
 
 | Degree | School | Year |
 |---|---|---|
@@ -100,10 +100,10 @@ My process usually goes: idea planning → sketching it out → designing the lo
 
 <div align="center">
 
-## <img src="https://api.iconify.design/octicon/mail.svg?color=%23F2C230&width=22&height=22" alt=""/> Let's Connect
+## 📧 Let's Connect
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/RebEmnacin)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/reb-emnacin-a9752b404/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RebEmnacin)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/reb-emnacin-a9752b404/)
 
 *Open to internships, collabs, and interesting problems to solve.*
 
