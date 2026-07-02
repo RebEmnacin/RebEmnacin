@@ -91,7 +91,7 @@ My process usually goes: idea planning → sketching it out → designing the lo
 
 <div align="center">
 
-### breadcrumber-app
+### breadcrumber
 
 *an AI-powered roadmap builder for creatives who struggle to start*
 
