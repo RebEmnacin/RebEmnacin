@@ -67,18 +67,6 @@
 
 ---
 
-### 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/RebEmnacin/RebEmnacin/output/github-contribution-grid-snake.svg" alt="Contribution snake animation" />
-
-</div>
-
-> Optional add-on — not included in this zip. If you want it, say the word and I'll hand you the small extra workflow file for it (same pattern as the card: it draws itself and needs no upkeep).
-
----
-
 <div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=RebEmnacin&color=lightgrey&style=flat-square&label=Profile+Views)
