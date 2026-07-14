@@ -1,0 +1,78 @@
+# ============================================================
+# WHAT THIS FILE DOES (plain English):
+# On a schedule (and whenever you push to main), GitHub spins up a
+# small computer, installs Python, runs generate_card.py, and that
+# script talks to the GitHub API to pull your latest stats and redraw
+# profile-card.svg. Then this workflow commits the updated image (and
+# its cache file) straight back into your repo — so your README's
+# card image stays current with zero manual work.
+#
+# WHERE THIS FILE GOES:
+# Repo root -> .github/workflows/update-card.yml   (exact path/name)
+# ============================================================
+
+name: update profile card
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"   # runs every 12 hours
+  workflow_dispatch: {}       # lets you trigger it manually from the Actions tab
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: check out the repo
+        uses: actions/checkout@v4
+
+      - name: set up python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: install dependencies
+        run: pip install requests
+
+      - name: run the card generator
+        env:
+          GH_TOKEN: ${{ secrets.ACCESS_TOKEN }}
+        run: python generate_card.py
+
+      - name: commit the updated card back to the repo
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add profile-card.svg cache/cache.json
+          git diff --quiet --cached || git commit -m "chore: refresh profile card"
+          git push
+
+# ------------------------------------------------------------
+# ONE-TIME SETUP (do this after uploading these files to GitHub):
+#
+# 1. Create a Personal Access Token:
+#    GitHub (top-right profile photo) -> Settings -> Developer settings
+#    -> Personal access tokens -> Tokens (classic) -> Generate new token.
+#    Check the boxes for "repo" and "read:user". Copy the token — you
+#    only see it once.
+#    (A plain GITHUB_TOKEN that Actions gives you automatically is NOT
+#    enough here, because pulling full commit/contribution history
+#    needs a token you generate yourself.)
+#
+# 2. Save it as a secret:
+#    Your repo -> Settings -> Secrets and variables -> Actions
+#    -> New repository secret -> Name it exactly: ACCESS_TOKEN
+#    -> paste the token you copied -> Save.
+#
+# 3. Turn on write access for Actions:
+#    Your repo -> Settings -> Actions -> General -> Workflow permissions
+#    -> select "Read and write permissions" -> Save.
+#
+# 4. Go to the "Actions" tab -> select "update profile card" -> click
+#    "Run workflow" once, so profile-card.svg gets created immediately
+#    instead of waiting up to 12 hours.
+# ------------------------------------------------------------
