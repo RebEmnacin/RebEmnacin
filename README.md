@@ -1,5 +1,4 @@
 <div align="center">
-
 <!-- This image is generated automatically by generate_card.py + the
      GitHub Action in .github/workflows/update-card.yml. Once that's
      set up (see the setup note inside update-card.yml), this line
