@@ -7,25 +7,6 @@
 
 </div>
 
-<!--
-  ================================================================
-  HOW TO USE THIS PACKAGE (delete this comment block once you're set)
-  1. Create a repo named EXACTLY your username: RebEmnacin/RebEmnacin
-  2. Upload everything in this zip to the repo root, keeping the
-     folder structure intact:
-       - README.md
-       - generate_card.py
-       - ascii_art.txt
-       - cache/cache.json
-       - .github/workflows/update-card.yml
-  3. Follow the 4-step "ONE-TIME SETUP" note inside update-card.yml
-     (make a Personal Access Token, save it as a secret named
-     ACCESS_TOKEN, turn on write permissions, run the workflow once).
-  4. That first manual run creates profile-card.svg — after that it
-     refreshes itself every 12 hours automatically.
-  ================================================================
--->
-
 <div align="center">
 
 ![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react&logoColor=61DAFB)
