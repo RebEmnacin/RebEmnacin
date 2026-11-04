@@ -249,8 +249,8 @@ art_cols = max(len(l) for l in art_lines)
 # monospace character width, so nothing overflows on any device's fonts.
 CHAR_W = 0.6
 PADDING = 32
-ART_FONT_SIZE = 7
-ART_LINE_HEIGHT = 10.5
+ART_FONT_SIZE = 6.6
+ART_LINE_HEIGHT = 9.9
 ART_X = PADDING
 ART_Y_START = 44
 
@@ -262,12 +262,13 @@ art_tspans = "\n".join(
 art_block_height = ART_Y_START + len(art_lines) * ART_LINE_HEIGHT + PADDING
 
 STAT_X = int(ART_X + art_cols * ART_FONT_SIZE * CHAR_W + 40)
-STAT_FONT_SIZE = 15
-STAT_LINE_HEIGHT = 26
-STAT_Y_START = 48
+STAT_FONT_SIZE = 21          # size of the text on the right (bigger = easier to read)
+STAT_LINE_HEIGHT = 32        # re-spaced below to match the height of the art
+STAT_Y_START = 52
+LABEL_COL = 27               # every value starts at this character column, so values line up
 
 greeting = f"{GITHUB_USERNAME.lower()}@{GITHUB_USERNAME.lower()}"
-dash_fill = "-" * max(4, 58 - len(greeting))
+dash_fill = "-" * max(4, 62 - len(greeting))
 
 # Each entry: (kind, text) OR ("stat_line", label, dots, value, value_color)
 lines = [
@@ -295,6 +296,13 @@ lines = [
     ("loc", "Lines of Code on GitHub:", STATS["loc_add"], STATS["loc_del"]),
 ]
 
+STAT_LINE_HEIGHT = int(min(40, max(30, (art_block_height - PADDING - STAT_Y_START) / len(lines))))
+
+
+def dots_for(label):
+    return "." * max(2, LABEL_COL - len(label) - 2)
+
+
 stat_svg_lines = []
 y = STAT_Y_START
 for entry in lines:
@@ -313,7 +321,8 @@ for entry in lines:
             f'font-size="{STAT_FONT_SIZE}" fill="{COLORS["header"]}">{esc(entry[1])}</text>'
         )
     elif kind == "row":
-        _, label, dots, value = entry
+        _, label, _unused_dots, value = entry
+        dots = dots_for(label)
         stat_svg_lines.append(
             f'<text x="{STAT_X}" y="{y}" font-family="Consolas, monospace" font-size="{STAT_FONT_SIZE}">'
             f'<tspan fill="{COLORS["label"]}">{esc(label)}</tspan>'
@@ -323,10 +332,11 @@ for entry in lines:
         )
     elif kind == "loc":
         _, label, add, deletion = entry
+        loc_dots = dots_for(label)
         stat_svg_lines.append(
             f'<text x="{STAT_X}" y="{y}" font-family="Consolas, monospace" font-size="{STAT_FONT_SIZE}">'
             f'<tspan fill="{COLORS["label"]}">{esc(label)}</tspan>'
-            f'<tspan fill="{COLORS["divider"]}"> .... </tspan>'
+            f'<tspan fill="{COLORS["divider"]}"> {loc_dots} </tspan>'
             f'<tspan fill="{COLORS["additions"]}">{esc(add)}++</tspan>'
             f'<tspan fill="{COLORS["value"]}">  </tspan>'
             f'<tspan fill="{COLORS["deletions"]}">{esc(deletion)}--</tspan>'
@@ -338,9 +348,9 @@ def entry_chars(entry):
     if entry[0] in ("greeting", "header"):
         return len(entry[1])
     if entry[0] == "row":
-        return len(entry[1]) + len(entry[2]) + len(entry[3]) + 2
+        return max(LABEL_COL, len(entry[1]) + 4) + len(entry[3])
     if entry[0] == "loc":
-        return len(entry[1]) + len(entry[2]) + len(entry[3]) + 12
+        return max(LABEL_COL, len(entry[1]) + 4) + len(entry[2]) + len(entry[3]) + 6
     return 0
 
 
