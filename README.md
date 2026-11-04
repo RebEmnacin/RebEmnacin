@@ -11,14 +11,6 @@
 
 <div align="center">
 
-<code>.......................................................................</code>
-
-</div>
-
-<br>
-
-<div align="center">
-
 <h3><code>- Tech Stack -</code></h3>
 
 <!-- Icons are drawn in tech-stack.svg (same folder as this README). -->
@@ -30,26 +22,10 @@
 
 <div align="center">
 
-<code>.......................................................................</code>
-
-</div>
-
-<br>
-
-<div align="center">
-
 <h3><code>- Currently Exploring -</code></h3>
 
 <!-- Icons are drawn in exploring.svg (same folder as this README). -->
-<img src="https://raw.githubusercontent.com/RebEmnacin/RebEmnacin/main/exploring.svg" alt="FastAPI, PostgreSQL, Express.js, Axios, Vite, React Router, PHP, Supabase, Bootstrap, Tailwind CSS, Netlify, Vercel, Next.js, MongoDB, Mongoose, Zustand, NeonDB" width="100%"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<code>.......................................................................</code>
+<img src="https://raw.githubusercontent.com/RebEmnacin/RebEmnacin/main/exploring.svg" alt="FastAPI, PostgreSQL, Express.js, Axios, Vite, React Router, PHP, Supabase, Bootstrap, Tailwind CSS, Netlify, Vercel, Next.js, MongoDB, Zustand, NeonDB" width="100%"/>
 
 </div>
 
