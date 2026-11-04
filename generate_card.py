@@ -35,7 +35,7 @@ STATIC_INFO = {
     "languages_programming": "JavaScript, TypeScript, Python, Java",
     "languages_frameworks": "React, Node.js",
     "languages_real": "English, Filipino/Tagalog",
-    "hobbies": "Minecraft, Photography",
+    "hobbies": "Minecraft, Photography, Videography",
     "email": "rebqemnacin@gmail.com",
     "linkedin": "linkedin.com/in/reb-emnacin",
 }
@@ -294,8 +294,6 @@ lines = [
     ("header", "- GitHub Stats -"),
     ("row", "Repos:", "...................................", STATS["repos"]),
     ("row", "Commits:", ".................................", STATS["commits"]),
-    ("row", "Stars:", "...................................", STATS["stars"]),
-    ("row", "Followers:", "...............................", STATS["followers"]),
     ("loc", "Lines of Code on GitHub:", STATS["loc_add"], STATS["loc_del"]),
 ]
 
