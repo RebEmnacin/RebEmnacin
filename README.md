@@ -8,103 +8,82 @@
 </div>
 
 <br>
-<br>
 
 <div align="center">
 
-## 🛠️ Tech Stack
-
-<br>
-
-<img src="https://img.shields.io/badge/React-black?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" height="40"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=FFD54F" alt="Python" height="40"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=node.js&logoColor=339933" alt="Node.js" height="40"/>
-
-<br>
-
-<img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" height="40"/>
-&nbsp;
-<img src="https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript" height="40"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Java-black?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" height="40"/>
-
-<br>
-
-<img src="https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML5" height="40"/>
-&nbsp;
-<img src="https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=css3&logoColor=1572B6" alt="CSS3" height="40"/>
-&nbsp;
-<img src="https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql&logoColor=4479A1" alt="MySQL" height="40"/>
+<code>.......................................................................</code>
 
 </div>
 
 <br>
-<br>
-
----
-
-<br>
 
 <div align="center">
 
-## 🌱 Currently Exploring
+<h3><code>- Tech Stack -</code></h3>
 
 <br>
 
-<img src="https://img.shields.io/badge/FastAPI-white?style=for-the-badge&logo=fastapi&logoColor=009688&labelColor=eeeeee" alt="FastAPI" height="34"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Postgres-white?style=for-the-badge&logo=postgresql&logoColor=4169E1&labelColor=eeeeee" alt="PostgreSQL" height="34"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Express.js-white?style=for-the-badge&logo=express&logoColor=000000&labelColor=eeeeee" alt="Express.js" height="34"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Axios-white?style=for-the-badge&logo=axios&logoColor=5A29E4&labelColor=eeeeee" alt="Axios" height="34"/>
-
-<br>
-
-<img src="https://img.shields.io/badge/Vite-white?style=for-the-badge&logo=vite&logoColor=646CFF&labelColor=eeeeee" alt="Vite" height="34"/>
-&nbsp;
-<img src="https://img.shields.io/badge/React_Router-white?style=for-the-badge&logo=reactrouter&logoColor=CA4245&labelColor=eeeeee" alt="React Router" height="34"/>
-&nbsp;
-<img src="https://img.shields.io/badge/PHP-white?style=for-the-badge&logo=php&logoColor=777BB4&labelColor=eeeeee" alt="PHP" height="34"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Supabase-white?style=for-the-badge&logo=supabase&logoColor=3ECF8E&labelColor=eeeeee" alt="Supabase" height="34"/>
-
-<br>
-
-<img src="https://img.shields.io/badge/Bootstrap-white?style=for-the-badge&logo=bootstrap&logoColor=7952B3&labelColor=eeeeee" alt="Bootstrap" height="34"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Tailwind_CSS-white?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&labelColor=eeeeee" alt="Tailwind CSS" height="34"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Netlify-white?style=for-the-badge&logo=netlify&logoColor=00C7B7&labelColor=eeeeee" alt="Netlify" height="34"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Vercel-white?style=for-the-badge&logo=vercel&logoColor=000000&labelColor=eeeeee" alt="Vercel" height="34"/>
-
-<br>
-
-<img src="https://img.shields.io/badge/Next.js-white?style=for-the-badge&logo=next.js&logoColor=000000&labelColor=eeeeee" alt="Next.js" height="34"/>
-&nbsp;
-<img src="https://img.shields.io/badge/MongoDB-white?style=for-the-badge&logo=mongodb&logoColor=47A248&labelColor=eeeeee" alt="MongoDB" height="34"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Mongoose-white?style=for-the-badge&logo=mongoose&logoColor=880000&labelColor=eeeeee" alt="Mongoose" height="34"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Zustand-white?style=for-the-badge&logoColor=443E38&labelColor=eeeeee" alt="Zustand" height="34"/>
-&nbsp;
-<img src="https://img.shields.io/badge/NeonDB-white?style=for-the-badge&logo=neon&logoColor=00E599&labelColor=eeeeee" alt="NeonDB" height="34"/>
+<img src="https://img.shields.io/badge/React-1f2430?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=0b0e14" alt="React" height="38"/>
+<img src="https://img.shields.io/badge/Python-1f2430?style=for-the-badge&logo=python&logoColor=FFD54F&labelColor=0b0e14" alt="Python" height="38"/>
+<img src="https://img.shields.io/badge/Node.js-1f2430?style=for-the-badge&logo=node.js&logoColor=339933&labelColor=0b0e14" alt="Node.js" height="38"/>
+<img src="https://img.shields.io/badge/JavaScript-1f2430?style=for-the-badge&logo=javascript&logoColor=F7DF1E&labelColor=0b0e14" alt="JavaScript" height="38"/>
+<img src="https://img.shields.io/badge/TypeScript-1f2430?style=for-the-badge&logo=typescript&logoColor=3178C6&labelColor=0b0e14" alt="TypeScript" height="38"/>
+<img src="https://img.shields.io/badge/Java-1f2430?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=0b0e14" alt="Java" height="38"/>
+<img src="https://img.shields.io/badge/HTML5-1f2430?style=for-the-badge&logo=html5&logoColor=E34F26&labelColor=0b0e14" alt="HTML5" height="38"/>
+<img src="https://img.shields.io/badge/CSS3-1f2430?style=for-the-badge&logo=css3&logoColor=1572B6&labelColor=0b0e14" alt="CSS3" height="38"/>
+<img src="https://img.shields.io/badge/MySQL-1f2430?style=for-the-badge&logo=mysql&logoColor=4479A1&labelColor=0b0e14" alt="MySQL" height="38"/>
 
 </div>
 
 <br>
-<br>
 
----
+<div align="center">
+
+<code>.......................................................................</code>
+
+</div>
 
 <br>
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=RebEmnacin&color=lightgrey&style=for-the-badge&label=Profile+Views" alt="Profile Views" height="34"/>
+<h3><code>- Currently Exploring -</code></h3>
+
+<br>
+
+<img src="https://img.shields.io/badge/FastAPI-1f2430?style=for-the-badge&logo=fastapi&logoColor=009688&labelColor=0b0e14" alt="FastAPI" height="32"/>
+<img src="https://img.shields.io/badge/Postgres-1f2430?style=for-the-badge&logo=postgresql&logoColor=4169E1&labelColor=0b0e14" alt="PostgreSQL" height="32"/>
+<img src="https://img.shields.io/badge/Express.js-1f2430?style=for-the-badge&logo=express&logoColor=white&labelColor=0b0e14" alt="Express.js" height="32"/>
+<img src="https://img.shields.io/badge/Axios-1f2430?style=for-the-badge&logo=axios&logoColor=5A29E4&labelColor=0b0e14" alt="Axios" height="32"/>
+<img src="https://img.shields.io/badge/Vite-1f2430?style=for-the-badge&logo=vite&logoColor=646CFF&labelColor=0b0e14" alt="Vite" height="32"/>
+<img src="https://img.shields.io/badge/React_Router-1f2430?style=for-the-badge&logo=reactrouter&logoColor=CA4245&labelColor=0b0e14" alt="React Router" height="32"/>
+<img src="https://img.shields.io/badge/PHP-1f2430?style=for-the-badge&logo=php&logoColor=777BB4&labelColor=0b0e14" alt="PHP" height="32"/>
+<img src="https://img.shields.io/badge/Supabase-1f2430?style=for-the-badge&logo=supabase&logoColor=3ECF8E&labelColor=0b0e14" alt="Supabase" height="32"/>
+<img src="https://img.shields.io/badge/Bootstrap-1f2430?style=for-the-badge&logo=bootstrap&logoColor=7952B3&labelColor=0b0e14" alt="Bootstrap" height="32"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-1f2430?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&labelColor=0b0e14" alt="Tailwind CSS" height="32"/>
+<img src="https://img.shields.io/badge/Netlify-1f2430?style=for-the-badge&logo=netlify&logoColor=00C7B7&labelColor=0b0e14" alt="Netlify" height="32"/>
+<img src="https://img.shields.io/badge/Vercel-1f2430?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0b0e14" alt="Vercel" height="32"/>
+<img src="https://img.shields.io/badge/Next.js-1f2430?style=for-the-badge&logo=next.js&logoColor=white&labelColor=0b0e14" alt="Next.js" height="32"/>
+<img src="https://img.shields.io/badge/MongoDB-1f2430?style=for-the-badge&logo=mongodb&logoColor=47A248&labelColor=0b0e14" alt="MongoDB" height="32"/>
+<img src="https://img.shields.io/badge/Mongoose-1f2430?style=for-the-badge&logo=mongoose&logoColor=B71C1C&labelColor=0b0e14" alt="Mongoose" height="32"/>
+<img src="https://img.shields.io/badge/Zustand-1f2430?style=for-the-badge&labelColor=0b0e14" alt="Zustand" height="32"/>
+<img src="https://img.shields.io/badge/NeonDB-1f2430?style=for-the-badge&logo=neon&logoColor=00E599&labelColor=0b0e14" alt="NeonDB" height="32"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<code>.......................................................................</code>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=RebEmnacin&color=1f2430&style=for-the-badge&label=Profile+Views" alt="Profile Views" height="32"/>
 
 </div>
 
