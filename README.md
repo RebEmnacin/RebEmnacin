@@ -25,7 +25,7 @@
 <h3><code>- Currently Exploring -</code></h3>
 
 <!-- Icons are drawn in exploring.svg (same folder as this README). -->
-<img src="https://raw.githubusercontent.com/RebEmnacin/RebEmnacin/main/exploring.svg" alt="FastAPI, PostgreSQL, Express.js, Axios, Vite, React Router, PHP, Supabase, Bootstrap, Tailwind CSS, Netlify, Vercel, Next.js, MongoDB, Zustand, NeonDB" width="100%"/>
+<img src="https://raw.githubusercontent.com/RebEmnacin/RebEmnacin/main/exploring.svg" alt="FastAPI, PostgreSQL, Express.js, Axios, Vite, React Router, Vue.js, PHP, Supabase, Bootstrap, Tailwind CSS, Netlify, Vercel, Next.js, MongoDB, Zustand, NeonDB" width="100%"/>
 
 </div>
 
