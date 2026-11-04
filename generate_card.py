@@ -233,24 +233,38 @@ def esc(s):
 
 
 with open("ascii_art.txt", "r") as f:
-    art_lines = [line.rstrip("\n") for line in f.readlines()]
+    art_lines = [line.rstrip() for line in f.readlines()]
 
-ART_FONT_SIZE = 6
-ART_LINE_HEIGHT = 9
-ART_X = 30
-ART_Y_START = 34
+# Trim blank lines top/bottom and the empty margin on the left, so the art
+# can be drawn as large as possible instead of wasting space on padding.
+while art_lines and not art_lines[0].strip():
+    art_lines.pop(0)
+while art_lines and not art_lines[-1].strip():
+    art_lines.pop()
+art_indent = min(len(l) - len(l.lstrip()) for l in art_lines if l.strip())
+art_lines = [l[art_indent:] for l in art_lines]
+art_cols = max(len(l) for l in art_lines)
+
+# Layout scale (bigger numbers = bigger card). 0.6 is the widest common
+# monospace character width, so nothing overflows on any device's fonts.
+CHAR_W = 0.6
+PADDING = 32
+ART_FONT_SIZE = 7
+ART_LINE_HEIGHT = 10.5
+ART_X = PADDING
+ART_Y_START = 44
 
 art_tspans = "\n".join(
     f'<tspan x="{ART_X}" dy="{ART_LINE_HEIGHT if i else 0}">{esc(line)}</tspan>'
     for i, line in enumerate(art_lines)
 )
 
-art_block_height = ART_Y_START + len(art_lines) * ART_LINE_HEIGHT + 20
+art_block_height = ART_Y_START + len(art_lines) * ART_LINE_HEIGHT + PADDING
 
-STAT_X = 470
-STAT_FONT_SIZE = 13
-STAT_LINE_HEIGHT = 21
-STAT_Y_START = 40
+STAT_X = int(ART_X + art_cols * ART_FONT_SIZE * CHAR_W + 40)
+STAT_FONT_SIZE = 15
+STAT_LINE_HEIGHT = 26
+STAT_Y_START = 48
 
 greeting = f"{GITHUB_USERNAME.lower()}@{GITHUB_USERNAME.lower()}"
 dash_fill = "-" * max(4, 58 - len(greeting))
@@ -320,9 +334,20 @@ for entry in lines:
         )
     y += STAT_LINE_HEIGHT
 
-stat_block_height = y + 20
-canvas_height = max(art_block_height, stat_block_height)
-canvas_width = 1050
+def entry_chars(entry):
+    if entry[0] in ("greeting", "header"):
+        return len(entry[1])
+    if entry[0] == "row":
+        return len(entry[1]) + len(entry[2]) + len(entry[3]) + 2
+    if entry[0] == "loc":
+        return len(entry[1]) + len(entry[2]) + len(entry[3]) + 12
+    return 0
+
+
+stat_block_height = y + PADDING - STAT_LINE_HEIGHT // 2
+canvas_height = int(max(art_block_height, stat_block_height))
+longest_line = max(entry_chars(e) for e in lines)
+canvas_width = int(STAT_X + longest_line * STAT_FONT_SIZE * CHAR_W + PADDING)
 
 svg = f"""<svg xmlns="http://www.w3.org/2000/svg" width="{canvas_width}" height="{canvas_height}" viewBox="0 0 {canvas_width} {canvas_height}">
   <rect width="{canvas_width}" height="{canvas_height}" rx="10" fill="{COLORS['background']}" stroke="{COLORS['border']}" stroke-width="1"/>
