@@ -249,8 +249,11 @@ art_cols = max(len(l) for l in art_lines)
 # monospace character width, so nothing overflows on any device's fonts.
 CHAR_W = 0.6
 PADDING = 32
-ART_FONT_SIZE = 6.6
-ART_LINE_HEIGHT = 9.9
+ART_FONT_SIZE = 7.2
+# Line spacing for the picture. ASCII converters assume a character cell about twice as
+# tall as it is wide, so keep this near 1.15 x the font size. Raise it and the picture
+# looks tall and squeezed; lower it and it looks wide and flat.
+ART_LINE_HEIGHT = round(ART_FONT_SIZE * 1.15, 2)
 ART_X = PADDING
 ART_Y_START = 44
 
