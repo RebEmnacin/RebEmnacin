@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1050" height="44" viewBox="0 0 1050 44">
+  <style>
+    .title {
+      font-family: Consolas, Monaco, 'Courier New', monospace;
+      font-size: 20px;
+      font-weight: bold;
+      letter-spacing: 1px;
+      fill: #61afef;
+    }
+    .cursor {
+      fill: #e5c07b;
+      animation: blink 1s steps(1) infinite;
+    }
+    @keyframes blink { 50% { opacity: 0; } }
+  </style>
+
+  <rect width="1050" height="44" rx="8" fill="#0b0e14" stroke="#1f2430" stroke-width="1"/>
+  <text x="20" y="29" class="title">- Currently Exploring - <tspan class="cursor">_</tspan></text>
+</svg>
