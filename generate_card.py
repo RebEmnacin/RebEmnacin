@@ -35,7 +35,7 @@ STATIC_INFO = {
     "languages_programming": "JavaScript, TypeScript, Python, Java",
     "languages_frameworks": "React, Node.js",
     "languages_real": "English, Filipino/Tagalog",
-    "hobbies": "Minecraft, Photography, Videography",
+    "hobbies": "Minecraft, Photography",
     "email": "rebqemnacin@gmail.com",
     "linkedin": "linkedin.com/in/reb-emnacin",
 }
@@ -177,14 +177,12 @@ def get_lines_of_code(repo_names):
                 for week in contributor.get("weeks", []):
                     repo_add += week.get("a", 0)
                     repo_del += week.get("d", 0)
-
         cache[cache_key] = {"add": repo_add, "del": repo_del}
         total_add += repo_add
         total_del += repo_del
 
     with open(CACHE_FILE, "w") as f:
         json.dump(cache, f)
-
     return total_add, total_del
 
 
@@ -233,45 +231,41 @@ def esc(s):
 
 
 with open("ascii_art.txt", "r") as f:
-    art_lines = [line.rstrip() for line in f.readlines()]
+    art_lines = [line.rstrip("\n") for line in f.readlines()]
 
-# Trim blank lines top/bottom and the empty margin on the left, so the art
-# can be drawn as large as possible instead of wasting space on padding.
-while art_lines and not art_lines[0].strip():
-    art_lines.pop(0)
-while art_lines and not art_lines[-1].strip():
-    art_lines.pop()
-art_indent = min(len(l) - len(l.lstrip()) for l in art_lines if l.strip())
-art_lines = [l[art_indent:] for l in art_lines]
-art_cols = max(len(l) for l in art_lines)
+# ---- NEW: auto-fit the art so there's no big gap before the info text ----
+STAT_X = 470             # where the info text starts (moved up here from below)
 
-# Layout scale (bigger numbers = bigger card). 0.6 is the widest common
-# monospace character width, so nothing overflows on any device's fonts.
-CHAR_W = 0.6
-PADDING = 32
-ART_FONT_SIZE = 7.2
-# Line spacing for the picture. ASCII converters assume a character cell about twice as
-# tall as it is wide, so keep this near 1.15 x the font size. Raise it and the picture
-# looks tall and squeezed; lower it and it looks wide and flat.
-ART_LINE_HEIGHT = round(ART_FONT_SIZE * 1.15, 2)
-ART_X = PADDING
-ART_Y_START = 44
+ART_X = 30               # left padding
+ART_Y_START = 34         # top padding
+ART_GAP = 30             # empty space between art and info text
+ART_CELL_RATIO = 0.5     # char width / row height. 0.5 = how a real terminal looks
 
-art_tspans = "\n".join(
-    f'<tspan x="{ART_X}" dy="{ART_LINE_HEIGHT if i else 0}">{esc(line)}</tspan>'
-    for i, line in enumerate(art_lines)
-)
+# Work out sizes so the art fills the space before the info text
+art_cols = max(len(line.rstrip()) for line in art_lines)         # widest row, in characters
+ART_CHAR_WIDTH = (STAT_X - ART_GAP - ART_X) / art_cols           # px per character
+ART_LINE_HEIGHT = ART_CHAR_WIDTH / ART_CELL_RATIO                # px per row
+ART_FONT_SIZE = round(ART_LINE_HEIGHT * 0.9, 2)
 
-art_block_height = ART_Y_START + len(art_lines) * ART_LINE_HEIGHT + PADDING
+tspan_list = []
+for i, line in enumerate(art_lines):
+    dy = ART_LINE_HEIGHT if i else 0
+    attrs = f'x="{ART_X}" dy="{dy:.2f}"'
+    if line.strip():  # skip blank rows
+        # textLength forces this row to be exactly this wide, in any font
+        attrs += f' textLength="{len(line) * ART_CHAR_WIDTH:.2f}" lengthAdjust="spacingAndGlyphs"'
+    tspan_list.append(f"<tspan {attrs}>{esc(line)}</tspan>")
+art_tspans = "\n".join(tspan_list)
 
-STAT_X = int(ART_X + art_cols * ART_FONT_SIZE * CHAR_W + 40)
-STAT_FONT_SIZE = 21          # size of the text on the right (bigger = easier to read)
-STAT_LINE_HEIGHT = 32        # re-spaced below to match the height of the art
-STAT_Y_START = 52
-LABEL_COL = 27               # every value starts at this character column, so values line up
+art_block_height = ART_Y_START + len(art_lines) * ART_LINE_HEIGHT + 20
+# ---- END NEW ----
+
+STAT_FONT_SIZE = 13
+STAT_LINE_HEIGHT = 21
+STAT_Y_START = 40
 
 greeting = f"{GITHUB_USERNAME.lower()}@{GITHUB_USERNAME.lower()}"
-dash_fill = "-" * max(4, 62 - len(greeting))
+dash_fill = "-" * max(4, 58 - len(greeting))
 
 # Each entry: (kind, text) OR ("stat_line", label, dots, value, value_color)
 lines = [
@@ -294,15 +288,10 @@ lines = [
     ("header", "- GitHub Stats -"),
     ("row", "Repos:", "...................................", STATS["repos"]),
     ("row", "Commits:", ".................................", STATS["commits"]),
+    ("row", "Stars:", "...................................", STATS["stars"]),
+    ("row", "Followers:", "...............................", STATS["followers"]),
     ("loc", "Lines of Code on GitHub:", STATS["loc_add"], STATS["loc_del"]),
 ]
-
-STAT_LINE_HEIGHT = int(min(40, max(30, (art_block_height - PADDING - STAT_Y_START) / len(lines))))
-
-
-def dots_for(label):
-    return "." * max(2, LABEL_COL - len(label) - 2)
-
 
 stat_svg_lines = []
 y = STAT_Y_START
@@ -322,8 +311,7 @@ for entry in lines:
             f'font-size="{STAT_FONT_SIZE}" fill="{COLORS["header"]}">{esc(entry[1])}</text>'
         )
     elif kind == "row":
-        _, label, _unused_dots, value = entry
-        dots = dots_for(label)
+        _, label, dots, value = entry
         stat_svg_lines.append(
             f'<text x="{STAT_X}" y="{y}" font-family="Consolas, monospace" font-size="{STAT_FONT_SIZE}">'
             f'<tspan fill="{COLORS["label"]}">{esc(label)}</tspan>'
@@ -333,39 +321,28 @@ for entry in lines:
         )
     elif kind == "loc":
         _, label, add, deletion = entry
-        loc_dots = dots_for(label)
         stat_svg_lines.append(
             f'<text x="{STAT_X}" y="{y}" font-family="Consolas, monospace" font-size="{STAT_FONT_SIZE}">'
             f'<tspan fill="{COLORS["label"]}">{esc(label)}</tspan>'
-            f'<tspan fill="{COLORS["divider"]}"> {loc_dots} </tspan>'
+            f'<tspan fill="{COLORS["divider"]}"> .... </tspan>'
             f'<tspan fill="{COLORS["additions"]}">{esc(add)}++</tspan>'
-            f'<tspan fill="{COLORS["value"]}">  </tspan>'
+            f'<tspan fill="{COLORS["value"]}"> </tspan>'
             f'<tspan fill="{COLORS["deletions"]}">{esc(deletion)}--</tspan>'
             f"</text>"
         )
     y += STAT_LINE_HEIGHT
 
-def entry_chars(entry):
-    if entry[0] in ("greeting", "header"):
-        return len(entry[1])
-    if entry[0] == "row":
-        return max(LABEL_COL, len(entry[1]) + 4) + len(entry[3])
-    if entry[0] == "loc":
-        return max(LABEL_COL, len(entry[1]) + 4) + len(entry[2]) + len(entry[3]) + 6
-    return 0
+stat_block_height = y + 20
 
-
-stat_block_height = y + PADDING - STAT_LINE_HEIGHT // 2
-canvas_height = int(max(art_block_height, stat_block_height))
-longest_line = max(entry_chars(e) for e in lines)
-canvas_width = int(STAT_X + longest_line * STAT_FONT_SIZE * CHAR_W + PADDING)
+canvas_height = max(art_block_height, stat_block_height)
+canvas_width = 1050
 
 svg = f"""<svg xmlns="http://www.w3.org/2000/svg" width="{canvas_width}" height="{canvas_height}" viewBox="0 0 {canvas_width} {canvas_height}">
-  <rect width="{canvas_width}" height="{canvas_height}" rx="10" fill="{COLORS['background']}" stroke="{COLORS['border']}" stroke-width="1"/>
-  <text xml:space="preserve" x="{ART_X}" y="{ART_Y_START}" font-family="Consolas, Monaco, monospace" font-size="{ART_FONT_SIZE}" fill="{COLORS['ascii_art']}">
+<rect width="{canvas_width}" height="{canvas_height}" rx="10" fill="{COLORS['background']}" stroke="{COLORS['border']}" stroke-width="1"/>
+<text xml:space="preserve" x="{ART_X}" y="{ART_Y_START}" font-family="Consolas, Monaco, monospace" font-size="{ART_FONT_SIZE}" fill="{COLORS['ascii_art']}">
 {art_tspans}
-  </text>
-  {chr(10).join(stat_svg_lines)}
+</text>
+{chr(10).join(stat_svg_lines)}
 </svg>"""
 
 with open("profile-card.svg", "w") as f:
