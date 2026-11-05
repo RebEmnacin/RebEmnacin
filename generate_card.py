@@ -347,7 +347,7 @@ for entry in lines:
 stat_block_height = y - STAT_LINE_HEIGHT + 29
 
 canvas_height = max(art_block_height, stat_block_height)
-canvas_width = 1050
+canvas_width = 1100
 
 svg = f"""<svg xmlns="http://www.w3.org/2000/svg" width="{canvas_width}" height="{canvas_height}" viewBox="0 0 {canvas_width} {canvas_height}">
 <rect width="{canvas_width}" height="{canvas_height}" rx="10" fill="{COLORS['background']}" stroke="{COLORS['border']}" stroke-width="1"/>
