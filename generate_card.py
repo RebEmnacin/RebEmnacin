@@ -271,7 +271,6 @@ art_block_height = ART_Y_START + len(art_lines) * ART_LINE_HEIGHT + 20
 # ---- END NEW ----
 
 STAT_FONT_SIZE = 13
-STAT_LINE_HEIGHT = 21
 STAT_Y_START = 40
 
 greeting = f"{GITHUB_USERNAME.lower()}@{GITHUB_USERNAME.lower()}"
