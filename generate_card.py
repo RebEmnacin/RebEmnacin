@@ -302,6 +302,9 @@ lines = [
     ("loc", "Lines of Code on GitHub:", STATS["loc_add"], STATS["loc_del"]),
 ]
 
+art_last_baseline = ART_Y_START + (len(art_lines) - 1) * ART_LINE_HEIGHT
+STAT_LINE_HEIGHT = max(21, (art_last_baseline - STAT_Y_START) / (len(lines) - 1))
+
 stat_svg_lines = []
 y = STAT_Y_START
 for entry in lines:
