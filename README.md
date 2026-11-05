@@ -33,7 +33,7 @@
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=RebEmnacin&color=1f2430&style=for-the-badge&label=Profile+Views" alt="Profile Views" height="32"/>
+<img src="https://komarev.com/ghpvc/?username=RebEmnacin&color=56b6c2&labelColor=1f2430&style=for-the-badge&label=Profile+Views" alt="Profile Views" height="32"/>
 
 </div>
 
