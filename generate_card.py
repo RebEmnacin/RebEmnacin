@@ -231,7 +231,17 @@ def esc(s):
 
 
 with open("ascii_art.txt", "r") as f:
-    art_lines = [line.rstrip("\n") for line in f.readlines()]
+    raw_lines = [line.rstrip("\r\n") for line in f.readlines()]
+
+# ---- NEW: crop empty space around the art so it can be drawn bigger ----
+# 1) remove blank rows at the top and bottom
+rows_with_ink = [i for i, line in enumerate(raw_lines) if line.strip()]
+art_lines = raw_lines[rows_with_ink[0] : rows_with_ink[-1] + 1]
+
+# 2) remove the left padding that every row shares
+common_indent = min(len(line) - len(line.lstrip()) for line in art_lines if line.strip())
+art_lines = [line[common_indent:].rstrip() for line in art_lines]
+# ---- END CROP ----
 
 # ---- NEW: auto-fit the art so there's no big gap before the info text ----
 STAT_X = 470             # where the info text starts (moved up here from below)
@@ -242,7 +252,7 @@ ART_GAP = 30             # empty space between art and info text
 ART_CELL_RATIO = 0.5     # char width / row height. 0.5 = how a real terminal looks
 
 # Work out sizes so the art fills the space before the info text
-art_cols = max(len(line.rstrip()) for line in art_lines)         # widest row, in characters
+art_cols = max(len(line) for line in art_lines)                  # widest row, in characters
 ART_CHAR_WIDTH = (STAT_X - ART_GAP - ART_X) / art_cols           # px per character
 ART_LINE_HEIGHT = ART_CHAR_WIDTH / ART_CELL_RATIO                # px per row
 ART_FONT_SIZE = round(ART_LINE_HEIGHT * 0.9, 2)
