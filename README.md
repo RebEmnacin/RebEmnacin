@@ -11,7 +11,7 @@
 
 <div align="center">
 
-<h3><code>- Tech Stack -</code></h3>
+<img src="https://raw.githubusercontent.com/RebEmnacin/RebEmnacin/main/title-tech-stack.svg" alt="Tech Stack">
 
 <!-- Icons are drawn in tech-stack.svg (same folder as this README). -->
 <img src="https://raw.githubusercontent.com/RebEmnacin/RebEmnacin/main/tech-stack.svg" alt="React, Python, Node.js, JavaScript, TypeScript, Java, HTML5, CSS, MySQL" width="100%"/>
