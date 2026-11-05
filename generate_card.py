@@ -344,7 +344,7 @@ for entry in lines:
         )
     y += STAT_LINE_HEIGHT
 
-stat_block_height = y + 20
+stat_block_height = y - STAT_LINE_HEIGHT + 29
 
 canvas_height = max(art_block_height, stat_block_height)
 canvas_width = 1050
