@@ -4,8 +4,6 @@
     .t { font-family: Consolas, Monaco, 'Courier New', monospace; }
     .title { font-size: 22px; font-weight: bold; letter-spacing: 1px; fill: #a9c9ff; }
     .note { font-size: 14px; fill: #5d729f; }
-    .cursor { fill: #82b4ff; animation: blink 1s steps(1) infinite; }
-    @keyframes blink { 50% { opacity: 0; } }
 
     /* the icon and the line under the header draw themselves once, when the page loads */
     .draw { fill: none; stroke: #5b8def; stroke-width: 1.7; stroke-linecap: round; stroke-linejoin: round;
@@ -21,7 +19,7 @@
     @keyframes float { from { transform: translateY(0); } to { transform: translateY(-1.5px); } }
   
     @media (prefers-color-scheme: light) {
-      .title { fill: #2557b8; } .note { fill: #6a7aa0; } .cursor { fill: #2f6bdc; }
+      .title { fill: #2557b8; } .note { fill: #6a7aa0; }
       .draw, .rule { stroke: #2f6bdc; }
       [fill="#5b8def"]{fill:#2f6bdc}
       [stroke="#1b2d63"]{stroke:#c5d1ee}
@@ -35,7 +33,7 @@
     <g class="lay l2"><path class="draw d2" d="M3 12l9 5 9-5" pathLength="1"/></g>
     <g class="lay"><path class="draw" d="M12 2.5l9 5-9 5-9-5z" pathLength="1"/></g>
   </g>
-  <text x="76" y="39" class="t title">Tech Stack <tspan class="cursor">_</tspan></text>
+  <text x="76" y="39" class="t title">Tech Stack</text>
   <text x="1032" y="38" class="t note" text-anchor="end">// languages I build with</text>
   <path class="rule" d="M76 57H1032" pathLength="1"/>
 </svg>
