@@ -2,18 +2,18 @@
   <title>Tech Stack</title>
   <style>
     .t { font-family: Consolas, Monaco, 'Courier New', monospace; }
-    .title { font-size: 22px; font-weight: bold; letter-spacing: 1px; fill: #61afef; }
-    .note { font-size: 14px; fill: #5c6370; }
-    .cursor { fill: #e5c07b; animation: blink 1s steps(1) infinite; }
+    .title { font-size: 22px; font-weight: bold; letter-spacing: 1px; fill: #a9c9ff; }
+    .note { font-size: 14px; fill: #5d729f; }
+    .cursor { fill: #82b4ff; animation: blink 1s steps(1) infinite; }
     @keyframes blink { 50% { opacity: 0; } }
 
     /* the icon and the line under the header draw themselves once, when the page loads */
-    .draw { fill: none; stroke: #56b6c2; stroke-width: 1.7; stroke-linecap: round; stroke-linejoin: round;
+    .draw { fill: none; stroke: #5b8def; stroke-width: 1.7; stroke-linecap: round; stroke-linejoin: round;
              stroke-dasharray: 1; stroke-dashoffset: 1; animation: draw 1.1s ease-out forwards; }
     .d2 { animation-delay: .25s; }
     .d3 { animation-delay: .5s; }
     @keyframes draw { to { stroke-dashoffset: 0; } }
-    .rule { fill: none; stroke: #56b6c2; stroke-width: 2; stroke-linecap: round; opacity: .45;
+    .rule { fill: none; stroke: #5b8def; stroke-width: 2; stroke-linecap: round; opacity: .45;
              stroke-dasharray: 1; stroke-dashoffset: 1; animation: draw 1.6s .3s ease-out forwards; }
     /* the three layers float up and down one after another, like a stack being built */
     .lay { animation: float 3s ease-in-out 1.2s infinite alternate; }
@@ -21,8 +21,8 @@
     @keyframes float { from { transform: translateY(0); } to { transform: translateY(-1.5px); } }
   </style>
 
-  <rect x=".5" y=".5" width="1049" height="63" rx="10" fill="#0b0e14" stroke="#1f2430"/>
-  <rect x="14" y="10" width="44" height="44" rx="10" fill="#11151d" stroke="#1f2430"/>
+  <rect x=".5" y=".5" width="1049" height="63" rx="10" fill="#0a1430" stroke="#1b2d63"/>
+  <rect x="14" y="10" width="44" height="44" rx="10" fill="#101e47" stroke="#1b2d63"/>
   <g transform="translate(18,14) scale(1.5)">
     <g class="lay l3"><path class="draw d3" d="M3 16.5l9 5 9-5" pathLength="1"/></g>
     <g class="lay l2"><path class="draw d2" d="M3 12l9 5 9-5" pathLength="1"/></g>
