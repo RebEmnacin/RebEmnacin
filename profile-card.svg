@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1100" height="607.3697478991596" viewBox="0 0 1100 607.3697478991596">
-<rect width="1100" height="607.3697478991596" rx="10" fill="#0b0e14" stroke="#1f2430" stroke-width="1"/>
-<text xml:space="preserve" x="30" y="34" font-family="Consolas, Monaco, monospace" font-size="6.2" fill="#c8ccd4">
+<rect width="1100" height="607.3697478991596" rx="10" fill="#0a1430" stroke="#1b2d63" stroke-width="1"/>
+<text xml:space="preserve" x="30" y="34" font-family="Consolas, Monaco, monospace" font-size="6.2" fill="#b9cbf2">
 <tspan x="30" dy="0.00" textLength="172.27" lengthAdjust="spacingAndGlyphs">                                          ........</tspan>
 <tspan x="30" dy="6.89" textLength="206.72" lengthAdjust="spacingAndGlyphs">                                         ....**##+..........</tspan>
 <tspan x="30" dy="6.89" textLength="217.06" lengthAdjust="spacingAndGlyphs">                                   .........=#%..#%#*#++++++...</tspan>
@@ -82,21 +82,21 @@
 <tspan x="30" dy="6.89" textLength="347.98" lengthAdjust="spacingAndGlyphs">.#@@%......................................@@@#####%%%##%%%####%%%#####%#####%####%%##%#**+%%%%%%#@#=</tspan>
 <tspan x="30" dy="6.89" textLength="347.98" lengthAdjust="spacingAndGlyphs"> .*%@@@@@..................................@##*#+*#+===+++++***++=++***+=++++*++++==+=+===--**+#+-%++</tspan>
 </text>
-<text x="470" y="40" font-family="Consolas, monospace" font-size="13" fill="#e5c07b">rebemnacin@rebemnacin -------------------------------------</text>
-<text x="470" y="91.2733093237295" font-family="Consolas, monospace" font-size="13"><tspan fill="#56b6c2">OS:</tspan><tspan fill="#3b4048"> ...................................... </tspan><tspan fill="#d4d7dd">Windows 11</tspan></text>
-<text x="470" y="116.90996398559426" font-family="Consolas, monospace" font-size="13"><tspan fill="#56b6c2">Uptime:</tspan><tspan fill="#3b4048"> .................................. </tspan><tspan fill="#d4d7dd">0 years, 11 months, 28 days</tspan></text>
-<text x="470" y="142.546618647459" font-family="Consolas, monospace" font-size="13"><tspan fill="#56b6c2">IDE:</tspan><tspan fill="#3b4048"> ...................................... </tspan><tspan fill="#d4d7dd">VS Code</tspan></text>
-<text x="470" y="193.81992797118852" font-family="Consolas, monospace" font-size="13"><tspan fill="#56b6c2">Languages.Programming:</tspan><tspan fill="#3b4048"> ...... </tspan><tspan fill="#d4d7dd">JavaScript, TypeScript, Python, Java</tspan></text>
-<text x="470" y="219.45658263305327" font-family="Consolas, monospace" font-size="13"><tspan fill="#56b6c2">Languages.Frameworks:</tspan><tspan fill="#3b4048"> ....... </tspan><tspan fill="#d4d7dd">React, Node.js</tspan></text>
-<text x="470" y="245.09323729491803" font-family="Consolas, monospace" font-size="13"><tspan fill="#56b6c2">Languages.Real:</tspan><tspan fill="#3b4048"> ............. </tspan><tspan fill="#d4d7dd">English, Filipino/Tagalog</tspan></text>
-<text x="470" y="296.3665466186475" font-family="Consolas, monospace" font-size="13"><tspan fill="#56b6c2">Hobbies:</tspan><tspan fill="#3b4048"> ................................. </tspan><tspan fill="#d4d7dd">Minecraft, Photography</tspan></text>
-<text x="470" y="347.6398559423769" font-family="Consolas, monospace" font-size="13" fill="#61afef">- Contact -</text>
-<text x="470" y="373.27651060424165" font-family="Consolas, monospace" font-size="13"><tspan fill="#56b6c2">Email.Personal:</tspan><tspan fill="#3b4048"> ............. </tspan><tspan fill="#d4d7dd">rebqemnacin@gmail.com</tspan></text>
-<text x="470" y="398.9131652661064" font-family="Consolas, monospace" font-size="13"><tspan fill="#56b6c2">LinkedIn:</tspan><tspan fill="#3b4048"> ................................ </tspan><tspan fill="#d4d7dd">linkedin.com/in/reb-emnacin</tspan></text>
-<text x="470" y="450.1864745898358" font-family="Consolas, monospace" font-size="13" fill="#61afef">- GitHub Stats -</text>
-<text x="470" y="475.82312925170055" font-family="Consolas, monospace" font-size="13"><tspan fill="#56b6c2">Repos:</tspan><tspan fill="#3b4048"> ................................... </tspan><tspan fill="#d4d7dd">14</tspan></text>
-<text x="470" y="501.4597839135653" font-family="Consolas, monospace" font-size="13"><tspan fill="#56b6c2">Commits:</tspan><tspan fill="#3b4048"> ................................. </tspan><tspan fill="#d4d7dd">807</tspan></text>
-<text x="470" y="527.09643857543" font-family="Consolas, monospace" font-size="13"><tspan fill="#56b6c2">Stars:</tspan><tspan fill="#3b4048"> ................................... </tspan><tspan fill="#d4d7dd">5</tspan></text>
-<text x="470" y="552.7330932372948" font-family="Consolas, monospace" font-size="13"><tspan fill="#56b6c2">Followers:</tspan><tspan fill="#3b4048"> ............................... </tspan><tspan fill="#d4d7dd">19</tspan></text>
-<text x="470" y="578.3697478991596" font-family="Consolas, monospace" font-size="13"><tspan fill="#56b6c2">Lines of Code on GitHub:</tspan><tspan fill="#3b4048"> .... </tspan><tspan fill="#98c379">54,921++</tspan><tspan fill="#d4d7dd"> </tspan><tspan fill="#e06c75">23,657--</tspan></text>
+<text x="470" y="40" font-family="Consolas, monospace" font-size="13" fill="#82b4ff">rebemnacin@rebemnacin -------------------------------------</text>
+<text x="470" y="91.2733093237295" font-family="Consolas, monospace" font-size="13"><tspan fill="#5b8def">OS:</tspan><tspan fill="#3b5088"> ...................................... </tspan><tspan fill="#dbe6fb">Windows 11</tspan></text>
+<text x="470" y="116.90996398559426" font-family="Consolas, monospace" font-size="13"><tspan fill="#5b8def">Uptime:</tspan><tspan fill="#3b5088"> .................................. </tspan><tspan fill="#dbe6fb">0 years, 11 months, 28 days</tspan></text>
+<text x="470" y="142.546618647459" font-family="Consolas, monospace" font-size="13"><tspan fill="#5b8def">IDE:</tspan><tspan fill="#3b5088"> ...................................... </tspan><tspan fill="#dbe6fb">VS Code</tspan></text>
+<text x="470" y="193.81992797118852" font-family="Consolas, monospace" font-size="13"><tspan fill="#5b8def">Languages.Programming:</tspan><tspan fill="#3b5088"> ...... </tspan><tspan fill="#dbe6fb">JavaScript, TypeScript, Python, Java</tspan></text>
+<text x="470" y="219.45658263305327" font-family="Consolas, monospace" font-size="13"><tspan fill="#5b8def">Languages.Frameworks:</tspan><tspan fill="#3b5088"> ....... </tspan><tspan fill="#dbe6fb">React, Node.js</tspan></text>
+<text x="470" y="245.09323729491803" font-family="Consolas, monospace" font-size="13"><tspan fill="#5b8def">Languages.Real:</tspan><tspan fill="#3b5088"> ............. </tspan><tspan fill="#dbe6fb">English, Filipino/Tagalog</tspan></text>
+<text x="470" y="296.3665466186475" font-family="Consolas, monospace" font-size="13"><tspan fill="#5b8def">Hobbies:</tspan><tspan fill="#3b5088"> ................................. </tspan><tspan fill="#dbe6fb">Minecraft, Photography</tspan></text>
+<text x="470" y="347.6398559423769" font-family="Consolas, monospace" font-size="13" fill="#a9c9ff">- Contact -</text>
+<text x="470" y="373.27651060424165" font-family="Consolas, monospace" font-size="13"><tspan fill="#5b8def">Email.Personal:</tspan><tspan fill="#3b5088"> ............. </tspan><tspan fill="#dbe6fb">rebqemnacin@gmail.com</tspan></text>
+<text x="470" y="398.9131652661064" font-family="Consolas, monospace" font-size="13"><tspan fill="#5b8def">LinkedIn:</tspan><tspan fill="#3b5088"> ................................ </tspan><tspan fill="#dbe6fb">linkedin.com/in/reb-emnacin</tspan></text>
+<text x="470" y="450.1864745898358" font-family="Consolas, monospace" font-size="13" fill="#a9c9ff">- GitHub Stats -</text>
+<text x="470" y="475.82312925170055" font-family="Consolas, monospace" font-size="13"><tspan fill="#5b8def">Repos:</tspan><tspan fill="#3b5088"> ................................... </tspan><tspan fill="#dbe6fb">14</tspan></text>
+<text x="470" y="501.4597839135653" font-family="Consolas, monospace" font-size="13"><tspan fill="#5b8def">Commits:</tspan><tspan fill="#3b5088"> ................................. </tspan><tspan fill="#dbe6fb">808</tspan></text>
+<text x="470" y="527.09643857543" font-family="Consolas, monospace" font-size="13"><tspan fill="#5b8def">Stars:</tspan><tspan fill="#3b5088"> ................................... </tspan><tspan fill="#dbe6fb">5</tspan></text>
+<text x="470" y="552.7330932372948" font-family="Consolas, monospace" font-size="13"><tspan fill="#5b8def">Followers:</tspan><tspan fill="#3b5088"> ............................... </tspan><tspan fill="#dbe6fb">18</tspan></text>
+<text x="470" y="578.3697478991596" font-family="Consolas, monospace" font-size="13"><tspan fill="#5b8def">Lines of Code on GitHub:</tspan><tspan fill="#3b5088"> .... </tspan><tspan fill="#6ec6ff">54,932++</tspan><tspan fill="#dbe6fb"> </tspan><tspan fill="#8e96e8">23,668--</tspan></text>
 </svg>
