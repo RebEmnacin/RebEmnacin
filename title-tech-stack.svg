@@ -19,10 +19,17 @@
     .lay { animation: float 3s ease-in-out 1.2s infinite alternate; }
     .l2 { animation-delay: 1.4s; } .l3 { animation-delay: 1.6s; }
     @keyframes float { from { transform: translateY(0); } to { transform: translateY(-1.5px); } }
+  
+    @media (prefers-color-scheme: light) {
+      .title { fill: #2557b8; } .note { fill: #6a7aa0; } .cursor { fill: #2f6bdc; }
+      .draw, .rule { stroke: #2f6bdc; }
+      [fill="#5b8def"]{fill:#2f6bdc}
+      [stroke="#1b2d63"]{stroke:#c5d1ee}
+    }
   </style>
 
-  <rect x=".5" y=".5" width="1049" height="63" rx="10" fill="#0a1430" stroke="#1b2d63"/>
-  <rect x="14" y="10" width="44" height="44" rx="10" fill="#101e47" stroke="#1b2d63"/>
+  <rect x=".5" y=".5" width="1049" height="63" rx="10" fill="none" stroke="#1b2d63"/>
+  <rect x="14" y="10" width="44" height="44" rx="10" fill="#5b8def" fill-opacity=".1" stroke="#1b2d63"/>
   <g transform="translate(18,14) scale(1.5)">
     <g class="lay l3"><path class="draw d3" d="M3 16.5l9 5 9-5" pathLength="1"/></g>
     <g class="lay l2"><path class="draw d2" d="M3 12l9 5 9-5" pathLength="1"/></g>
