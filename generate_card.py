@@ -42,7 +42,7 @@ STATIC_INFO = {
 
 # Colors (kept here so you can restyle without hunting through SVG code)
 COLORS = {
-    "background": "#0a1430",
+    "background": "none",      # transparent: the card takes on the page's own background
     "border": "#1b2d63",
     "ascii_art": "#b9cbf2",
     "greeting": "#82b4ff",
@@ -52,6 +52,19 @@ COLORS = {
     "header": "#a9c9ff",
     "additions": "#6ec6ff",
     "deletions": "#8e96e8",
+}
+
+# Same keys, used when the viewer is in light mode (via prefers-color-scheme)
+LIGHT_COLORS = {
+    "border": "#c5d1ee",
+    "ascii_art": "#3a4a73",
+    "greeting": "#2f6bdc",
+    "divider": "#9aa9cc",
+    "label": "#2f6bdc",
+    "value": "#1f2a44",
+    "header": "#2557b8",
+    "additions": "#0a7fc2",
+    "deletions": "#5a63c8",
 }
 
 # ------------------------------------------------------------------
@@ -349,7 +362,16 @@ stat_block_height = y - STAT_LINE_HEIGHT + 29
 canvas_height = max(art_block_height, stat_block_height)
 canvas_width = 1100
 
+# Light-mode overrides: swap each dark color for its light twin
+light_rules = []
+for key, light in LIGHT_COLORS.items():
+    dark = COLORS[key]
+    prop = "stroke" if key == "border" else "fill"
+    light_rules.append(f'[{prop}="{dark}"]{{{prop}:{light}}}')
+light_css = "@media (prefers-color-scheme: light){" + "".join(light_rules) + "}"
+
 svg = f"""<svg xmlns="http://www.w3.org/2000/svg" width="{canvas_width}" height="{canvas_height}" viewBox="0 0 {canvas_width} {canvas_height}">
+<style>{light_css}</style>
 <rect width="{canvas_width}" height="{canvas_height}" rx="10" fill="{COLORS['background']}" stroke="{COLORS['border']}" stroke-width="1"/>
 <text xml:space="preserve" x="{ART_X}" y="{ART_Y_START}" font-family="Consolas, Monaco, monospace" font-size="{ART_FONT_SIZE}" fill="{COLORS['ascii_art']}">
 {art_tspans}
