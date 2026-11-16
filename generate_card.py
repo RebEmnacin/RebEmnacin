@@ -4,7 +4,7 @@ generate_card.py
 WHAT THIS DOES (plain English):
 This script talks to the GitHub API, pulls your real stats (repo count,
 commit count, stars, followers, lines of code added/removed), then
-draws them into a dark "terminal card" SVG image next to your ASCII
+draws them into a dark-blue "terminal card" SVG image next to your ASCII
 art. The GitHub Action in .github/workflows/update-card.yml runs this
 automatically on a schedule so the image always shows fresh numbers.
 
@@ -42,16 +42,16 @@ STATIC_INFO = {
 
 # Colors (kept here so you can restyle without hunting through SVG code)
 COLORS = {
-    "background": "#0b0e14",
-    "border": "#1f2430",
-    "ascii_art": "#c8ccd4",
-    "greeting": "#e5c07b",
-    "divider": "#3b4048",
-    "label": "#56b6c2",
-    "value": "#d4d7dd",
-    "header": "#61afef",
-    "additions": "#98c379",
-    "deletions": "#e06c75",
+    "background": "#0a1430",
+    "border": "#1b2d63",
+    "ascii_art": "#b9cbf2",
+    "greeting": "#82b4ff",
+    "divider": "#3b5088",
+    "label": "#5b8def",
+    "value": "#dbe6fb",
+    "header": "#a9c9ff",
+    "additions": "#6ec6ff",
+    "deletions": "#8e96e8",
 }
 
 # ------------------------------------------------------------------
